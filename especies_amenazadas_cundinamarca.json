@@ -1,0 +1,2170 @@
+[
+    {
+        "_id": "566f10fdf289f5a40c0cd275",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Magnolia caricifragrans",
+        "name_common": "Apirruncho",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Apirruncho"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Hojarasco"
+            }
+        ],
+        "general_desc": "Hojas pecioladas, superficie adaxial recubierta por una cicatriz dejada por la yema vegetativa al desprenderse, lamina foliar abovada, cori\u00e1cea. Flores terminales solitarias, 3 hipsofilos vaginales tomentosos, caducos; 3 s\u00e9palos de color crema; 6 p\u00e9talos gruesos; 35 a 51 estambres dispuestos en 3 series espiraladas; gineceo obovado conformado por 10 a 17 carpelos unidos. Fruto elipsoide con dehiscencia circunc\u00edsil; con 1 o 2 semillas de color cinabarino (Lozano, 1994).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/97423296/large.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/97423296/large.jpg",
+        "reproduction": "Se ha encontrado florecido en los meses de enero, febrero, marzo, julio y agosto; y con frutos en marzo, mayo, agosto, septiembre y diciembre (Calderon et al, 2007).",
+        "distribution": "Esta especie es conocida en la cordillera oriental en la vertiente occidental en Cundinamarca en los l\u00edmites de Boyac\u00e1 y Arauca y al sur del departamento de Norte de Santander. Su distribuci\u00f3n comprende un rango altitudinal entre 1800 y 2900 msnm.",
+        "abstract": "\u00c1rbol hasta 15 m de altura; corteza gris ahumada, copa frondosa. Se encuentra en bosques subandinos h\u00famedos y de fragmentos de bosque nublado, crece en laderas y en cumbres de monta\u00f1as.",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Magnoliaceae",
+        "genus": "Magnolia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": ""
+    },
+    {
+        "_id": "566f14a2f289f5a40c0cd276",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Magnolia cespedesii",
+        "name_common": "Anon",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Anon"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cape, cape grande"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Molinillo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Magnolio"
+            }
+        ],
+        "general_desc": "Esta especie tiene hojas simples alternas, cart\u00e1ceas y pecioladas, l\u00e1mina foliar el\u00edptica glabra o con pocos tricomas, base angosta y \u00e1pice obtuso, haz de color verde citrino brillante, env\u00e9s de color verde p\u00e1lido. Flores el\u00edpticas terminales y solitarias, de 6 a 9 hipsofilos vaginales de color verde amarillento con tinte gris\u00e1ceo, 3 s\u00e9palos cart\u00e1ceos de color crema y 6 p\u00e9talos carnosos de color crema; 252 a 275 estambres ordenados en 7 series espiraladas, gineceo s\u00e9sil de forma anchamente ovado. Fruto le\u00f1oso con forma ovoide asim\u00e9trico con dehiscencia circunc\u00edsil. Tiene 2 semillas por carpelo de testa negra con sarcotesta anaranjada (Lozano, 1983; Lozano, 1984; Triana & Planchon, 1862).",
+        "img_main": "http://sweetgum.nybg.org/images3/1054/130/00804211.jpg",
+        "img_thumbnail": "http://sweetgum.nybg.org/images3/1054/130/00804211.jpg",
+        "reproduction": "Se ha encontrado con flores y frutos en el mes de octubre. Tiene flores hermafroditas (Calder\u00f3n et al., 2007; Lozano, 1983).",
+        "distribution": "Esta especie es conocida en la cordillera oriental hacia el valle del rio Magdalena en el departamento de Cundinamarca. Tiene una distribuci\u00f3n altitudinal de 1000 msnm (Calder\u00f3n et al., 2007).",
+        "abstract": "El \u201cmolinillo\u201d es una especie exclusiva de Colombia, puede alcanzar alturas hasta de 30 metros y di\u00e1metros de 1 metro, la corteza es acanalada, madera de color blanco y m\u00e9dula generalmente hueca. Se encuentra en bosques h\u00famedos tropicales (Calder\u00f3n et al., 2007; Lozano, 1983; Triana & Planchon, 1862).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Magnoliaceae",
+        "genus": "Magnolia",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "56702f09f289f5a40c0cd2cf",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Stenocereus humilis",
+        "name_common": "Data",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Data"
+            }
+        ],
+        "general_desc": "Cactus columnar, de flores blancas, baya roja y semillas negras (ICES 2006; HUA 2009)",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/58695151/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/58695151/original.jpg",
+        "reproduction": "",
+        "distribution": "Crece entre los 700 y los 1200 msnm (Bernal 2016)",
+        "abstract": "Cactus de flores blancas, se conoce como data y crece en los bosques secos tropicales de Colombia",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Stenocereus",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "5670695cf289f5a40c0cd2d6",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Podocnemis lewyana",
+        "name_common": "Tortuga del r\u00edo Magdalena",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Tortuga del r\u00edo Magdalena"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Tortuga de r\u00edo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Tortuga de agua"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Magdalena River Turtle"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Arrau River Turtle"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "South American River Turtle"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "True Amazon Turtle"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Giant South American Turtle"
+            },
+            {
+                "language": "French",
+                "name": "Podocn\u00e9mide de L\u00e9wy"
+            }
+        ],
+        "general_desc": "Tama\u00f1o mediano-grande, la longitud m\u00e1xima reportada es de 46 cm para una hembra. Caparaz\u00f3n con 24 escamas marginales, cinco vertebrales y ocho costales. Adultos con caparaz\u00f3n ovalado y aplanado,\u2028usualmente sin quillas o indentaciones cervicales, aunque los juveniles pueden\u2028 presentar quillas (Ernst & Barbour, 1989). Borde del caparaz\u00f3n ligeramente levantado en los flancos y en la regi\u00f3n posterior\u2028las escamas marginales pueden ir completamente horizontales (Casta\u00f1o-Mora & Medem, 2002). Caparaz\u00f3n m\u00e1s ancho en la regi\u00f3n posterior, en su \u00faltimo tercio y var\u00eda de gris a marr\u00f3n oliva, ocasionalmente con puntos oscuros (Ernst & Barbour, 1989). Plastr\u00f3n m\u00e1s peque\u00f1o que\u2028 el caparaz\u00f3n y usualmente posee un color\u2028 verde amarillento con puntos oscuros en\u2028 la regi\u00f3n anterior y central (Casta\u00f1o-Mora & Medem, 2002). Podocnemis lewyana tiene la cabeza\u2028m\u00e1s alargada de todas las especies del g\u00e9nero y presenta un surco entre las \u00f3rbitas\u2028t\u00edpico de todas las Podocnemis. Mand\u00edbula superior ligeramente redondeada, sin\u2028surcos. Escama interparietal muy ancha y acorazonada; cabeza con escamas suboculares y dos barbillas bajo la mand\u00edbula inferior; sin indentaci\u00f3n nucal. Neonatos y juveniles con la cabeza gris oliva y una banda de color cremoso-amarillenta entre los bordes posteriores de los ojos y t\u00edmpanos. Cabeza de los adultos marr\u00f3n, al igual que la regi\u00f3n entre los bordes posteriores de los ojos, con el t\u00edmpano de un color m\u00e1s claro, especialmente en los machos. En todas las categor\u00edas de tama\u00f1o, el cuello y las extremidades, son de color gris a verde-oliva, mientras que las mand\u00edbulas var\u00edan de color amarillo a hueso y el cuello es amarillento.\n\nSexualmente dim\u00f3rfica, con las hembras m\u00e1s grandes que los machos. Seg\u00fan Ernst y Barbour (1989), las cabezas de los machos son m\u00e1s redondeadas que las de las hembras. Adicionalmente, las hembras presentan un angostamiento en la parte posterior del caparaz\u00f3n y los machos poseen colas m\u00e1s largas y anchas y, en contraste con las hembras, la cloaca est\u00e1 localizada posteriomente a las escamas marginales (Iverson 1995). Seg\u00fan Gallego-Garc\u00eda (2004) el \u00e1ngulo de la sutura anal es m\u00e1s agudo y corto en los machos (forma de V) que en las hembras (forma de U). Gonz\u00e1lez-Z\u00e1rate (2010) y Gonz\u00e1lez-Z\u00e1rate et al. (2011) encontraron que la longitud de la sutura anal no se sobrelapa entre machos (69-149 mm) y hembras (152-372 mm) mayores a 170 mm de longitud recta del caparaz\u00f3n. Finalmente, tambi\u00e9n hay dimorfismo sexual sutil en el color, los machos poseen una banda blanca-amarillenta m\u00e1s definida que se extiende desde la \u00f3rbita hasta el t\u00edmpano y las escamas de la cabeza tienden a ser gris-marrones, mientras que en las hembras adultas la banda es mucho m\u00e1s difusa y tienen las escamas de la cabeza de color rojizo-marr\u00f3n (Gallego-Garc\u00eda 2004).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/154296141/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/154296141/original.jpeg",
+        "reproduction": "La anidaci\u00f3n se da en los meses de sequ\u00eda. En el Magdalena medio y en el r\u00edo Sin\u00fa, estas estaciones incluyen los meses de diciembre a marzo, y posteriormente hay una segunda \u00e9poca de sequ\u00eda o veranillo entre julio y agosto (Gallego-Garc\u00eda & Casta\u00f1o-Mora, 2008; Correa et al., 2010). En el r\u00edo Prado, en la parte alta del Magdalena, el principal periodo de anidaci\u00f3n ocurre entre junio y septiembre y la estaci\u00f3n secundaria de postura es entre diciembre y mayo (Vargas-Ram\u00edrez datos sin publicar). No hay publicaciones en donde se haya evaluado si una misma hembra anida en ambas \u00e9pocas de sequ\u00eda en el a\u00f1o, o cu\u00e1l es la frecuencia de la anidaci\u00f3n dentro de cada una. La anidaci\u00f3n generalmente ocurre en playas arenosas o de gravilla expuestas, as\u00ed como en barrancos y potreros a menos de 15 m de la orilla, aunque hay reportes de nidos a m\u00e1s de 39 m del cuerpo de agua (Correa, 2006; Cano, 2007). La profundidad de los nidos es de aproximadamente 20 cm. Las c\u00e1maras de los nidos son asim\u00e9tricas, en forma de botella, con entradas ovales que conducen a c\u00e1maras m\u00e1s profundas e inclinadas hacia un lado. \n\nLos tama\u00f1os de las posturas var\u00edan entre 10 a 40 huevos (Dahl & Medem, 1964; Medem, 1965; Casta\u00f1o-Mora, 1986, Gallego-Garc\u00eda & Casta\u00f1o-Mora, 2008; Correa et al., 2010), con un promedio de 20 huevos para el Magdalena medio (Correa et al., 2010) y 18 para el Sin\u00fa (Gallego-Garc\u00eda, 2004). El promedio de la temperatura pivotal para algunas poblaciones del Magdalena medio fue de 33,4 \u00b0C (\u00b1 0,4), con un intervalo de transici\u00f3n muy estrecho (P\u00e1ez et al., 2009b).",
+        "distribution": "End\u00e9mica de Colombia, con distribuci\u00f3n restringida a las cuencas de los r\u00edos Sin\u00fa (Caribe), Cauca y San Jorge (Magdalena) (Ernst & Barbour, 1989; Casta\u00f1o-Mora & Medem, 2002).",
+        "abstract": "Tortuga dulceacu\u00edcola end\u00e9mica para Colombia, restringida a las cuencas Magdalena y Caribe. Tiene una cabeza alargada, con un par de barbicelos en la regi\u00f3n del ment\u00f3n, extremidades completamente palmeadas y caparaz\u00f3n ovalado, liso y aplanado, m\u00e1s ancho en la regi\u00f3n posterior, de color gris oliv\u00e1ceo. Habita en r\u00edos, ca\u00f1os, ci\u00e9nagas y \u00e1reas inundadas conectadas a los r\u00edos Sin\u00fa, Cauca y San Jorge. Los huevos y la carne son consumidos y comercializados por las comunidades locales. Adem\u00e1s de la caza, la tortuga de r\u00edo est\u00e1 amenazada por la destrucci\u00f3n y contaminaci\u00f3n de su h\u00e1bitat y por cambios en los ciclos h\u00eddricos de los principales r\u00edos; debido a la construcci\u00f3n de represas. Sus poblaciones decrecen de manera acelerada, por lo que ha sido categorizada como en peligro cr\u00edtico a nivel nacional.",
+        "phylum": "Chordata",
+        "classHierarchy": "Reptilia",
+        "order": "Testudines",
+        "family": "Podocnemididae",
+        "genus": "Podocnemis",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "56708bc5f289f5a40c0cd2ec",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Ceroxylon alpinum",
+        "name_common": "Palma blanca",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Palma blanca"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Palma de cera"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Palma real"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Chonta"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Wax palm"
+            }
+        ],
+        "general_desc": "Son palmas de tallo solitario que alcanza 8 a 21 metros de altura y 15 a 30 cent\u00edmetros de di\u00e1metro; est\u00e1 cubierto por una capa de cera m\u00e1s o menos gruesa y es de color blanco a casi gris\u00e1ceo en los individuos m\u00e1s viejos; tiene entrenudos irregulares, algo oblicuos. Como las dem\u00e1s especies del g\u00e9nero Ceroxylon, se trata de palmas dioicas, en las que las flores masculinas y femeninas se encuentran en plantas diferentes. En su corona hemisf\u00e9rica se pueden contar 17-20 (-25) hojas, las cuales tienen un pec\u00edolo de (10-) 20-30 cm de largo y un raquis de 1,9-2,7 m de largo, con grueso tomento escamoso y blanquecino. Cada hoja tiene 90-110 pinnas en cada lado del raquis, dispuestas de manera regular y casi horizontalmente extendidas; est\u00e1n cubiertas por debajo con una capa delgada de escamas blancas. Presenta varias inflorescencias simult\u00e1neas con ejes cubiertos por indumento rojizo. Cada inflorescencia tiene 6-7 br\u00e1cteas pedunculares pardas y lanosas de hasta 148 cm de largo; el raquis de la inflorescencia mide hasta 1,2 m de largo y cuenta con hasta con 62 ramas, de las cuales las inferiores son m\u00e1s grandes y muy ramificadas. Las raquilas son delgadas y sinuosas. Las flores masculinas presentan entre 12 y 19 estambres, cuyas anteras tienen el conectivo prolongado. Los frutos miden 1,6-2 cm de di\u00e1metro y presentan una c\u00e1scara notoriamente verrugosa (Galeano & Bernal, 2010; San\u00edn & Galeano, 2011).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/107765342/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/107765342/original.jpeg",
+        "reproduction": "Es una palma dioica, con reproducci\u00f3n sexual. En las poblaciones de relictos de bosque en el Valle del Cocora (El Cairo, El Molino, El Tejar) se encontraron proporciones de sexos de 1:1. \nSe presenta un evento reproductivo al a\u00f1o. La \u00e9poca de floraci\u00f3n coincide para plantas pistiladas y estaminadas, \u00e9sta ocurre en mayor proporci\u00f3n en el mes de septiembre, aunque algunas florecen en abril. Cada adulto produce entre 4 y 12 inflorescencias, aunque no todas se desarrollan de forma simult\u00e1nea. \nCada infrutescencia produce entre 2000 y 3000 frutos  que madura de forma asincr\u00f3nica; la producci\u00f3n y maduraci\u00f3n de frutos dura unos 7 meses; la fructificaci\u00f3n ocurre entre febrero y abril, con un pico en este mes que coincide con la \u00e9poca de mayor precipitaci\u00f3n en la regi\u00f3n Andina. \nLa fecundidad (reclutamiento de pl\u00e1ntulas por cada palma adulta pistilada) fue de 186 pl\u00e1ntulas por palma y vari\u00f3 de un sitio a otro aparentemente con relaci\u00f3n al n\u00famero de plantas femeninas. \nAunque no se ha establecido c\u00f3mo es el proceso de polinizaci\u00f3n, se cree que puede ser medida por insectos. En poblaciones ecuatorianas se ha encontrado que las inflorescencias, especialmente las femeninas, emiten altas cantidades de hidrocarburos alif\u00e1ticos saturados e insaturados  y son visitadas por especies de Nitidulidaea, Curculionidae, Chrysomelidae, Ceratopogonidae, Sphaeroceridae y Hemiptera. Algunos de estos visitantes se reproducen en las flores masculinas y las larvas aparentemente se alimentan de polen (Vergara-Chaparro, 2002).",
+        "distribution": "Cuenta con poblaciones aisladas y muy localizadas en la Cordillera Occidental distribuidas entre El Dovio, Valle del Cauca y Jard\u00edn, Antioquia. En la cordillera Central est\u00e1 presente s\u00f3lo en el flanco occidental, en los departamentos de Caldas, Antioqu\u00eda, Quind\u00edo y Risaralda. En la cordillera oriental, est\u00e1 presente en el flaco occidental, entre los municipios de Sasaima y Chaguan\u00ed en Cundinamarca. \nSu rango altitudinal est\u00e1 entre 1400 y 2000 msnm. Tambi\u00e9n hace presencia en los Andes venezolanos (Bernal & Galeano, 2013); Galeano & Bernal, 2010; San\u00edn & Galeano, 2011).",
+        "abstract": "Hace parte del grupo de las palmas conocidas como palmas de cera. Se distingue de las otras especies del g\u00e9nero Ceroxylon por sus frutos verrugosos y las pinnas de las hojas extendidas horizontalmente. Es una de las palmas m\u00e1s amenazadas de Colombia, pues sumado a su distribuci\u00f3n restringida la severa deforestaci\u00f3n de su h\u00e1bitat natural ha conllevado a reducir sus poblaciones en m\u00e1s del 80%. Son palmas muy longevas, pues se estima que viven m\u00e1s de 200 a\u00f1os y que para lograr el desarrollo de tallo a\u00e9reo deben pasar m\u00e1s de 50 a\u00f1os. Sus hojas eran usadas para hacer ramos en semana santa, practica que actualmente se encuentra restringida (Bernal & Galeano, 2013).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Ceroxylon",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "56708dadf289f5a40c0cd2ef",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Ceroxylon sasaimae",
+        "name_common": "Palma de cera",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Palma de cera"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Palma de ramo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Palma real"
+            }
+        ],
+        "general_desc": "Palma con tallo solitario de 8-15 m de largo y 17-30 cm de di\u00e1metro. Su tallo  es de color verdoso a gris\u00e1ceo, est\u00e1 cubierto por una delgada capa de cera y tiende a retorcerse en la parte superior. \nTiene entre 16 y 26 hojas que forman una corana casi esf\u00e9rica, densa y compacta.\nLas hojas pueden carecer de peciolo y cuando \u00e9ste est\u00e1 presente no supera los 15 cm de largo.\nEl raquis es de 2-3 m de largo, a cada lado de \u00e9ste se disponen 93-120 pinnas, dispuestas en grupos apretados de 2 a 6 e insertas r\u00edgidamente en varias direcciones; por debajo est\u00e1n cubiertas de un tomento blanco-amarillento.\nLas inflorescencias pueden alcanzar hasta 3 m de largo y tienen 6-7 br\u00e1cteas pedunculares. Su raquis alcanza ca. de 1m de largo y de \u00e9l se desprenden 72-125 ramas, de las cuales las m\u00e1s largas est\u00e1n entre 23 y 42 cm y se sit\u00faan en la base, dividi\u00e9ndose en raquilas de hasta tercer orden. \nLas flores masculinas presentan 9-12 estambres.\nLos frutos tienen un di\u00e1metro de 1,5-1,8 cm y cuentan con una c\u00e1scara lisa, rojo-anaranjado intenso. La semilla mide 1.2-1.5 cm. Es f\u00e1cilmente distinguible de otras especies del g\u00e9nero por que usualmente tiene muchas m\u00e1s hojas y en ellas, las pinnas se insertan en varios planos, y tambi\u00e9n por la c\u00e1scara lisa de sus frutos (Galeano & Bernal 2010).",
+        "img_main": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ceroxylon_sasaimae_67008730.jpg",
+        "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ceroxylon_sasaimae_67008730.jpg",
+        "reproduction": "Son palmas dioicas.\nLos adultos tienen una buen producci\u00f3n de semillas, pero las pl\u00e1ntulas usualmente son cortadas o pisoteadas en las labores de limpieza de los cafetales.\nSe ha encontrado con flores en junio-julio, agosto y octubre, y con frutos en desde junio hasta abril (Galeano & Bernal 2005).",
+        "distribution": "Se conoce en un \u00e1rea peque\u00f1a entre los 1400 y 1800 m de elevaci\u00f3n en la vertiente occidental de la Cordillera Oriental, en Cundinamarca (De Sasaima a San Francisco). Tambi\u00e9n hay unas pocas palmas aisladas en los alrededores de Suaita, Santander, que son, aparentemente cultivadas (Galeano & Bernal 2010). \n\nEn 2010 se registr\u00f3 por primera vez una poblaci\u00f3n de Ceroxylon sasaimae en un \u00e1rea de bosque. Interesantemente, \u00e9sta est\u00e1 ubicada 144 Km al noroccidente de las poblaciones tradicionalmente conocidas, y sobre la Cordillera Central (al otro lado del Valle del Magdalena). La poblaci\u00f3n se registr\u00f3 entre 1,350 y 1,460 msnm, altitud en la que no se ha encontrado en otros bosques al norte o al occidente del mismo flanco de la Cordillera. \nM\u00e1s exactamente, el registro tuvo lugar en la vertiente oriental de la Cordillera, cerca del municipio de San Luis, una zona que no hab\u00eda sido explorada por bot\u00e1nicos desde hace m\u00e1s de 25 a\u00f1os (Bernal & Manrique 2012).",
+        "abstract": "Hace parte del grupo de las Palmas de Cera. La densidad de hojas en su corona, as\u00ed como las pinnas insertas en varios planos y la c\u00e1scara lisa de sus semillas permiten distinguirla de otras especies de Ceroxylon. Debido a su restringida distribuci\u00f3n, la transformaci\u00f3n severa de su h\u00e1bitat natural y el reducido n\u00famero de individuos de sus poblaciones, es considerada En Peligro de extinci\u00f3n (EN). Es una especie end\u00e9mica de Colombia, cuyos cogollos se usaron en el pasado como ramo bendito para la Semana Santa y actualmente se cultiva como planta ornamental.",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Arecales",
+        "family": "Arecaceae",
+        "genus": "Ceroxylon",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "5673a0aff289f5a40c0cd322",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Rulyrana adiazeta",
+        "name_common": "Rana de cristal de las rocas",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Rana de cristal de las rocas"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Rana occidental de Cochran"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Western Cochran Frog"
+            }
+        ],
+        "general_desc": "Rulyrana adiazeta (Rana de cristal de cascada) \n(1) especie con un tama\u00f1o corporal intermedio en adultos, entre 22.5 y los 28.8 mm; (2) rostro redondeado en vista dorsal y subtruncado  en vista lateral; (3) presenta dientes vomerinos  grandes; (4)  el t\u00edmpano y  el anillo timp\u00e1nico son medianos y visibles; (5) la piel dorsal en los machos reproductivos est\u00e1 uniformemente cubierta por esp\u00edculas (prominentes en los machos, reducidas en la hembras); (6) el peritoneo visceral es crema, mientras que el pericardio y  el peritoneo parietal en la mitad anterior o en los dos tercios posteriores del vientre son blancos; (7) la espina  humeral  en  los  machos est\u00e1  ausente;  (8)  los  dedos  de  la  mano  I  y  II  no  presentan membranas interdigitales,  mientras  que  entre  los  dedos  III  y  IV,  las  membranas  son  extensivas;  (9)  las  excrecencias nupciales son del tipo I y, (10) los huesos en vida son de color verde.",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/167424138/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/167424138/original.jpg",
+        "reproduction": "Es  poco  lo  que  sabe  en  relaci\u00f3n  a  la  reproducci\u00f3n  e  historia  natural  de Rulyrana  adiazeta.  Ruiz  y  Lynch (1991)  reportan  que  la  especievive  a  lo  largo  de  la  vegetaci\u00f3n  y  rocas  asociada  a  los  arroyos.  Los  machos cantan  desde  la  parte  superior  de  las  hojas  o  sobre  las  rocas  en  donde buscan  atraer  a  las  hembras  para  la reproducci\u00f3n. Si bien no se conocen las masas de huevos, se asume que las hembras usan el territorio de los machos para  depositar  las  posturas  que,  al  eclosionar  los  renacuajos, caen  al  agua  donde  completan  su desarrollo  (Rueda-Almonacid  y  Ram\u00edrez  Pinilla,  2004).  Los  huevos  a  t\u00e9rmino  encontrados  en  los  oviductos de las hembras son de un color caf\u00e9 oscuro o negro uniforme.",
+        "distribution": "Sachatamia punctulata  en el flanco occidental de la cordillera Oriental en Colombia, en los departamentos de Tolima, Cundinamarca y Santander (a altitudes entre los 1130 y los 2060 metros de elevaci\u00f3n. En el departamento del Tolima ha sido registrada en el municipios de Icononzo, en Cundinamarca para Alb\u00e1n y Sasaima, y en el departamento de Santander en los municipios de Charal\u00e1, San Gil (localidad tipo), Zapatoca, Rio Negro, Suaita y San Vicente de Chucur\u00ed.",
+        "abstract": "Pertenece a la familia Centrolenidae. Esta especie se encuentra en la vegetaci\u00f3n junto a arroyos en bosques h\u00famedos premontanos. Tambi\u00e9n se encuentra en bosques secundarios. Pone sus huevos en la vegetaci\u00f3n. Al eclosionar, los renacuajos caen a las quebradas en donde se completa el desarrollo. Es una ranita de Cristal reconocible por la  presencia de dientes vomerinos, excrecencia  nupcial tipo I (sensu Flores, 1985) y una coloraci\u00f3n dorsal verde, verde oliva a verde oscuro uniforme. El pericardio y el peritoneo visceral en la especie es blanco, al igual que el peritoneo parietal en la mitad anterior o en sus dos terceras partes en elvientre;  el rostro  es  redondeado  en  vista dorsal y subtruncado  en vista lateral. Por \u00faltimo, la extensi\u00f3n de  las membranas  en  los  dedos  mas  externos  en  la  mano  es  muy  extensiva y  la  cresta  ventral  del  h\u00famero  no  es proyectada  (sin  espina)  y  la  piel  dorsal  est\u00e1  uniformemente  cubierta  por  esp\u00edculas  prominentes  en  machos adultos  reproductivamente  activos  (menos  desarrolladas  en  las  hembras).  Los  huesos  son  de  color  verde envida  por  la  acumulaci\u00f3n  de  biliverdina.  Esta  especie  se  encuentra  bajo  la  categor\u00eda  de  amenaza  vulnerable (VU)  por  la  UICN  (criterios  B1ab(iii)).  La  justificaci\u00f3n  para  esta  categor\u00eda  esta  basada  en  que  la  especie presenta  una  ocupaci\u00f3n  menor  a  20,000  Km2,  sus  poblaciones  se  consideran  altamente  fragmentadas  y persiste  un  continuo  decline  en  la  extensi\u00f3n  y  calidad  de  su  h\u00e1bitat.  Las  principales  amenazas  directas  que enfrenta la especie son la expansi\u00f3n agr\u00edcola como cr\u00eda de ganado y la siembra de cultivos (Rueda-Almonacid y Ram\u00edrez Pinilla,2004).",
+        "phylum": "Chordata",
+        "classHierarchy": "Amphibia",
+        "order": "Anura",
+        "family": "Centrolenidae",
+        "genus": "Rulyrana",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "56c15c46f0106c67230e7314",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Ateles hybridus",
+        "name_common": "Braceador",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Braceador"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Braceadora"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Coat\u00e1"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Maquisapa"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Marimba"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Marimonda"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mico ara\u00f1a"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mono ara\u00f1a"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Choibo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mono negro"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Choiba"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Brown Spider Monkey"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Variegated Spider Monkey"
+            }
+        ],
+        "general_desc": "Anteriormente Ateles hybridus ten\u00eda dos subespecies: A. h. hybridus y A. h. brunneus. Actualmente es considerada una especie monot\u00edpica (Link et al., 2015). Son primates de gran tama\u00f1o, de dorso, manos, pies y brazos negros, caf\u00e9s p\u00e1lidos, caf\u00e9s oscuros o caf\u00e9s rojizos. Vientre contrastante de color blanco, amarillo o caf\u00e9 p\u00e1lido. Cabeza con frente blanca o caf\u00e9 con parche triangular o borde perif\u00e9rico blanco encerrando la cara. Rostro negro o rojo. Cola prensil de color similar a las partes superiores o m\u00e1s oscura; p\u00e1lida ventralmente. Medidas: LCC=416-582, LC=680-899, P=176-217, O=31-46, Peso=5.9-10.4 Kg.\n\nGeneralmente los machos son de mayor tama\u00f1o que las hembras. Estas \u00faltimas migran del grupo en el que nacieron, por ende, los machos de un grupo est\u00e1n gen\u00e9ticamente emparentados. Al igual que las otras especies de monos ara\u00f1a A. hybridus presenta un sistema de agrupaci\u00f3n fisi\u00f3n-fusi\u00f3n. \n(Defler, 2010).",
+        "img_main": "http://upload.wikimedia.org/wikipedia/commons/d/dc/BrownSpiderMonkey_%28edit2%29.jpg",
+        "img_thumbnail": "http://upload.wikimedia.org/wikipedia/commons/d/dc/BrownSpiderMonkey_%28edit2%29.jpg",
+        "reproduction": "Tienen una baja tasa reproductiva, las hembras dan a una sola cr\u00eda cada tres o cuatro a\u00f1os (Eisenberg, 1973). Alcanzan su madurez sexual entre los cuatro y cinco a\u00f1os de edad y tienen su primera cr\u00eda a los siete u ocho a\u00f1os. El per\u00edodo de gestaci\u00f3n no excede los 232 d\u00edas (Di Fiore & Campbell, 2007). La lactancia dura alrededor de un a\u00f1o y son las hembras quienes cuidan casi todo el tiempo a las cr\u00edas formando uniones muy fuertes con sus hijos. La cr\u00eda puede durar junto a la madre hasta 18 mese, o hasta que pueda poner en pr\u00e1ctica los comportamientos aprendidos (Di Fiore & Campbell, 2007).",
+        "distribution": "Se encuentran en Colombia y Venezuela. Para Colombia est\u00e1 reportado en la regi\u00f3n del Magdalena medio, en la costa caribe (al norte de las laderas australes de la Sierra Nevada de Santa Marta), las partes boreales de la Serran\u00eda del Perij\u00e1 y al norte del piedemonte del departamento de Arauca (Defler, 2003).",
+        "abstract": "Este primate se diferencia por la presencia de un parche blanco - amarillento en la frente en forma triangular. Su conservaci\u00f3n es de gran importancia debido al rol ecol\u00f3gico que tiene y al grado de amenaza en el que se encuentra. Actualmente se considera como uno de los 25 primates m\u00e1s amenazados a nivel mundial (Defler, 2010).",
+        "phylum": "Chordata",
+        "classHierarchy": "Mammalia",
+        "order": "Primates",
+        "family": "Cebidae",
+        "genus": "Ateles",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "56c37f7ef0106c67230e734c",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Chaetura pelagica",
+        "name_common": "Vencejo de Paso",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Vencejo de Paso"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Vencejo Pasajero"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Vencejo de chimenea"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Chimney swift"
+            },
+            {
+                "language": "Franc\u00e9s",
+                "name": "Martinet ramoneur"
+            },
+            {
+                "language": "Alem\u00e1n",
+                "name": "Schornsteinsegler"
+            },
+            {
+                "language": "Turco",
+                "name": "Amerika baca yeltutan\u0131"
+            },
+            {
+                "language": "Turco",
+                "name": "Baca ebabili"
+            },
+            {
+                "language": "Turco",
+                "name": "Baca s\u00fcp\u00fcr\u00fcc\u00fc"
+            }
+        ],
+        "general_desc": "La especie llega a medir hasta 14 cm. Es moderadamente grande, caf\u00e9 gris\u00e1ceo holl\u00edn por encima, con rabadilla ligeramente m\u00e1s p\u00e1lida (poco contraste entre espalda y rabadilla), la parte inferior del ave es caf\u00e9 gris\u00e1ceo pero su garganta en claramente m\u00e1s p\u00e1lida, casi blanquecina. Su cola es corta y caf\u00e9 (Hilty & Brown, 1986).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/883102/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/883102/original.jpg",
+        "reproduction": "Se han registrado seis aves en condici\u00f3n reproductiva entre enero y febrero; es decir durante la \u00e9poca invernal en el departamento de Boyac\u00e1 (Hilty & Brown, 1986) . Anida t\u00edpicamente en las chimeneas, aunque tambi\u00e9n en otras estructuras utilizadas; registrada anidando en nidos abandonados de  Pileated Woodpecker (Dryocopus pileatus). El nido tiene forma de taza y est\u00e1 elaborado con ramitas que pegan con la saliva: tiene 75 a 113 mm de ancho, 25 a 31 mm de profundidad y 50-75 mm de adelante hacia atr\u00e1s.  El tama\u00f1o de la nidada es de 2 a 7 huevos. La incubaci\u00f3n comienza con la postura del  pen\u00faltimo huevo y durante un  per\u00edodo de 19 a 21 d\u00edas,  las hembras incuban en la noche durante la primera semana; inicialmente, los pichones son alimentados por regurgitaci\u00f3n en cada visita (Chantler & Boesman, 2014).",
+        "distribution": "La especie se distribuye desde el este de las Monta\u00f1as Rocosas en Norteam\u00e9rica hasta el sur de Canad\u00e1. Al sur a trav\u00e9s de las grandes planicies del estado de Texas, al este a trav\u00e9s del golfo y del centro de Florida, y en el sur de California. Inverna desde el oeste de Per\u00fa y en la parte superior de la cuenca amaz\u00f3nica entre Bolivia, el norte de Chile y el noroeste de Brasil. Un registro de invierno en Bermudas. En Colombia se registra para el flanco occidental de la cordillera Central en Antioquia (Taraz\u00e1 y El Real) entre marzo y abril (BirdLife International, 2014; Cifuentes-Sarmiento, 2012).\nEl Vencejo de Chimenea no tiene un rango espec\u00edfico; los reportes actuales lo ubican hasta  los 2500 msnm (Cifuentes-Sarmiento, 2012; Hilty & Brown, 1986).",
+        "abstract": "El Vencejo de Chimenea es una especie migratoria que presenta un vuelo \u00e1gil y r\u00e1pido caracter\u00edstico que asemeja un cigarro con alas. Durante la migraci\u00f3n, forman bandadas de miles de individuos que imitan la forma de un tornado y pasan los meses de invierno en la cuenca alta del Amazonas de Per\u00fa, Ecuador, Chile y Brasil; as\u00ed regresan a Norteam\u00e9rica en marzo o abril donde se reproducen en Texas y otros estados al este y en el sur de Canad\u00e1; anidan en huecos de \u00e1rboles de bosques maduros y en chimeneas viejas. Gran parte de la historia de vida de este vencejo sigue siendo desconocida, debido a que tiene mucho tiempo de vuelo y su nidificaci\u00f3n y dormideros se producen en partes inaccesibles (The Cornell Lab of Ornithology, 2010).",
+        "phylum": "Chordata",
+        "classHierarchy": "Aves",
+        "order": "Apodiformes",
+        "family": "Apodidae",
+        "genus": "Chaetura",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": ""
+    },
+    {
+        "_id": "56c3b4a3f0106c67230e7358",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Cistothorus apolinari",
+        "name_common": "Apolinar's Wren",
+        "names": [
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Apolinar's Wren"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Apolinar's Wren"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Apolinar's Wren"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Apolinar's Wren"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Apolinar's Wren"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Apolinar's Wren"
+            },
+            {
+                "language": "Alem\u00e1n",
+                "name": "Apolinar-Zaunk\u00f6nig"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cucarachero de Apolinar"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Chirriador"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cucarachero de pantano"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "El Yoyo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Ruin"
+            }
+        ],
+        "general_desc": "Este cucarachero tiene alrededor de 13 cm y su peso es de aproximadamente 17.7 g (Dunning, 2008). Muy similar al Cucarachero Paramuno (C. platensis) siendo este mas peque\u00f1o. Tiene la coronilla caf\u00e9 oliva uniforme y la lista superciliar gris\u00e1cea. El manto estriado es de color negro y blanco anteado y la rabadilla caf\u00e9 claro. Sus alas y cola corta son rufescente barrada de negro y sus partes inferiores blanquecinas con flancos y lados ante opaco. El pico y las patas son de color cuerno (Hilty & Brown, 1986; Salamanca, 2014).   El aislamiento de poblaciones de p\u00e1ramo ha influido posiblemente en el desarrollo de caracter\u00edsticas propias en cuanto a tama\u00f1o, forma, voz y comportamiento (BirdLife International, 2014). C. a. hernandezi y C. a. apolinari difieren morfom\u00e9tricamente, hernandezi tiene el pico, ala y tarso m\u00e1s largos y la cola m\u00e1s corta; en el plumaje hernandezi es m\u00e1s claro en general y en vocalizaciones comparten pocos tipos de canto y el repertorio vocal de hernandezi es m\u00e1s amplio (Cadena, 2003).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/150945818/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/150945818/original.jpg",
+        "reproduction": "Las temporadas de reproducci\u00f3n ocurren entre febrero y agosto, se pueden observar huevos en junio, juveniles y colonias de volantones hasta octubre en la Laguna Chisac\u00e1, Cundinamarca (EOL, n.d.; Hilty & Brown, 1986; Salamanca, 2014). Construye un nido de forma mas o menos globular, con hojas secas o paja por fuera, con flores, hojas y material vegetal con vellosidades en el interior, con una sola entrada lateral de tallos y hojas, sobre una macoya de juncos a baja altura (Asociaci\u00f3n Bogotana de Ornitolog\u00eda, 2000). La subespecie hernandezi es dependiente de Chusquea tessellata para sitios de anidaci\u00f3n (EOL, n.d.).",
+        "distribution": "El Chirriador es una especie end\u00e9mica que se encuentra restringido a la porci\u00f3n norte de los Andes del este de Colombia, en Boyac\u00e1 y en Cundinamarca desde la Sabana de Bogot\u00e1 hasta el p\u00e1ramo de Sumapaz (BirdLife International, 2014; EOL, n.d.).   Se reconocen dos subespecies morfol\u00f3gicamente diferenciadas y aparentemente segregadas por el uso del habitat, Cistothorus apolinari apolinari (Chapman, 1914) habita en los humedales del altiplano Cundiboyacense y Cistothorus apolinari hernandezi (Stiles & Caycedo, 2002) se observa en el P\u00e1ramo de Sumapaz y se report\u00f3 en el 2009 en el P\u00e1ramo de Siscuns\u00ed (Sogamoso, Boyac\u00e1) (Espinosa-Blanco et al., 2009). El Chirriador se ha extinguido en al menos dos lugares desde 1950, y los n\u00fameros han ca\u00eddo en varios sitios anteriormente importantes (EOL, n.d.). Se distribuye entre 1800 y 4000 msnm, pero usualmente sobre 2500 y 3800 msnm (Asociaci\u00f3n Bogotana de Ornitolog\u00eda, 2000).",
+        "abstract": "El cucarachero de Apolinar es una especie end\u00e9mica y en peligro, de la Cordillera oriental de Colombia. Es una de las aves m\u00e1s emblem\u00e1ticas de los humedales de la sabana de Bogot\u00e1. Es un poco mas grande que el cucarachero com\u00fan y de tonalidades mas contrastantes, con voz fuerte y distintiva. Habita en pantanos y lagos con vegetaci\u00f3n emergente, alta y densa, principalmente por encima de 2500 msnm. En los h\u00e1bitats de p\u00e1ramo, se limita especialmente a las \u00e1reas con vegetaci\u00f3n de ribera. Recolecta insectos acu\u00e1ticos de los tallos de las ca\u00f1as; se encuentra generalmente en pares o grupos familiares. La temporada de reproducci\u00f3n ocurre entre febrero y octubre (BirdLife International, 2014; EOL, n.d.; Salamanca, 2014).",
+        "phylum": "Chordata",
+        "classHierarchy": "Aves",
+        "order": "Passeriformes",
+        "family": "Troglodytidae",
+        "genus": "Cistothorus",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "56c697f4f0106c67230e73d2",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Aragoa cupressina",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta planta es un arbusto de 1.5 m de altura, con flores de color blanco (Mar\u00edn & Parra 2015).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/118726998/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/118726998/original.jpeg",
+        "reproduction": "",
+        "distribution": "Esta es una especie end\u00e9mica de Colombia que se encuentra presente en la regi\u00f3n Andina en la Cordillera Oriental, en el departamento de Cundinamarca (Bernal 2015).",
+        "abstract": "Arbusto de hasta 2 m de altura. Follaje verde claro con indumento blanco. Hojas simples, alternas, cori\u00e1ceas, imbricadas, adpresas al tallo, de unos 5 mm de longitud y 2 mm de ancho. Flores con s\u00e9palos color verde; corola con 4 l\u00f3bulos, color blanco, pelos en el interior del tubo; 4 estambres con filamentos blancos y anteras caf\u00e9s; pistilo color verde claro. Fruto una c\u00e1psula con forma ovoide a c\u00f3nica, color caf\u00e9 (Fern\u00e1ndez-Alonso 1995).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Lamiales",
+        "family": "Plantaginaceae",
+        "genus": "Aragoa",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "56ce2fb93c16479905cba792",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Rallus semiplumbeus",
+        "name_common": "Rasc\u00f3n Andino, Tingua Bogotana",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Rasc\u00f3n Andino, Tingua Bogotana"
+            },
+            {
+                "language": "Portugu\u00e9s",
+                "name": "Saracura-de-Bogot\u00e1"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Bogota Rail"
+            },
+            {
+                "language": "Alem\u00e1n",
+                "name": "Bogota-Ralle"
+            }
+        ],
+        "general_desc": "Mide en promedio 25 cm, tiene el pico rojo con la punta fusca, m\u00e1s delgado y largo que el de otros miembros de la familia Rallidae que habitan en la Sabana. Los adultos tiene la cabeza, el cuello y el pecho gris plomizo, la coronilla y el dorso es listado caf\u00e9 y negro, hombros rufo casta\u00f1o; flancos negros con bandas delgadas blancas, coberteras infracaudales blancas con manchas negras; patas rojizas.  Los inmaduros son similares, pero con el pico rojo solo en la base, el pecho es ligeramente moteado con fusco, los flancos y vientre, fuscos con ante opaco. Los polluelos reci\u00e9n eclosionados est\u00e1n cubiertos con plum\u00f3n negro y tienen el pico blanco y negro (Asociaci\u00f3n Bogotana de Ornitolog\u00eda, 2000).",
+        "img_main": "http://upload.wikimedia.org/wikipedia/commons/f/ff/Rallus_semiplumbeus.jpg",
+        "img_thumbnail": "http://upload.wikimedia.org/wikipedia/commons/f/ff/Rallus_semiplumbeus.jpg",
+        "reproduction": "La Tingua Bogotana generalmente pone cuatro huevos anteados con manchas azul muy p\u00e1lido y puntos caf\u00e9 oscuros (Asociaci\u00f3n Bogotana de Ornitolog\u00eda, 2000; Lozano, 2002). La temporada reproductiva tiene lugar aproximadamente entre julio y septiembre. Para anidar, construyen camas poco profundas y ovaladas, con pastos y juncos, cerca del nivel del agua (BirdLife International, 2014).",
+        "distribution": "La Tingua Bogotana es una especie end\u00e9mica de la cordillera Oriental de Colombia, se encuentra distribuida desde Boyac\u00e1, en la laguna de Tota, hasta Cundinamarca en la Sabana de Bogot\u00e1 y los p\u00e1ramos aleda\u00f1os como los de Chingaza y Sumapaz, donde es raro y posiblemente no residente; es un visitante ocasional en la laguna de Pedro Palo (Tena, Cundinamarca) y existe un dudoso registro en Ecuador (Asociaci\u00f3n Bogotana de Ornitolog\u00eda, 2000). Se distribuye entre los 2000 y 4100 msnm (Asociaci\u00f3n Bogotana de Ornitolog\u00eda, 2000).",
+        "abstract": "La Tingua Bogotana o Rasc\u00f3n Andino, es un ave end\u00e9mica de la cordillera Oriental de los Andes y vive desde las sabanas hasta p\u00e1ramo. Tiene un pico largo, rojo y con la punta fusca, es a menudo lo primero que se deja observar movi\u00e9ndose por entre los juncos.  Habita principalmente los humedales y los pantanos de clima templado y p\u00e1ramo, preferiblemente si estos lugares se asocian con juncales o eneas. Se alimentan principalmente de invertebrados acu\u00e1ticos, larvas de insectos, sapos o sus renacuajos y algo de material vegetal. La Tingua Bogotana se considera una especie amenazada, la causa principal es la intervenci\u00f3n antr\u00f3pica de su h\u00e1bitat, la contaminaci\u00f3n por parte de la industria y el uso de agroqu\u00edmicos en los cultivos (Asociaci\u00f3n Bogotana de Ornitolog\u00eda, 2000; Lozano, 2002).",
+        "phylum": "Chordata",
+        "classHierarchy": "Aves",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "genus": "Rallus",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "56cf93ec3c16479905cba7f0",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Dacryodes colombiana",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Dacryodes colombiana Cuatrec., Webbia 12(2): 435. 1957. \n\n\u00c1rboles dioicos, cerca 20 m. altura, resin\u00edferos. La corteza es en placas delgadas. Las ramas apicales, ejes de las hojas y de la inflorescencia tienen una cubierta furfur\u00e1cea color marr\u00f3n. Hojas persistentes, alternas, imparipinnado-compuestas, ca. 35 cm long, con 4-7 pares de foliolos; peciolo ca 5-12 cm long, robusto, estriado, minutamente tomentoso; raquis 6-10 cm long, con internodos (distancia entre hojas) de ca 2 cm long, tomentoso; peciolulos de 5-9 mm long, minutamente tomentosos; foliolos opuestos o subopuestos, 7-12x2-4 cm, r\u00edgido-cori\u00e1ceos, oblongo-el\u00edpticos, \u00e1pice angostamente acunidado, base obtusa a subcordada y levemente asim\u00e9trica, margen entera, haz glabra, env\u00e9s esparcidamente ferruginea-pub\u00e9rula con tricomas escuamulosos granulosos. Inflorescencias en pan\u00edculas axilares o subterminales, 4-15 cm long; flores unisexuales, con 3 s\u00e9palos, 3 p\u00e9talos y 6 estambres, ovario 2 locular. Fruto drupa oblonga de 30x12x18 mm; epicarpio papir\u00e1ceo, glabro, en seco es rugoso; mesocarpio pulposos; endocarpo corneo. N\u00facula sub ovado-el\u00edptica a oblonga, con un extremo subagudo, 28x11x15 mm, bicarpelada pero con solo un l\u00f3culo f\u00e9rtil y monospermo. Basado en (Cuatrecasas 1957) y complementado. \n\nTipo: Colombia. Santander. Valle del R\u00edo Magdalena, Cimitarra, km 3 de la carretera al Ermita\u00f1o, 24-VII-1954, F.B. Lamb 130 (Holotipo: US). (Cuatrecasas 1957). \n\nDacryodes colombiana es af\u00edn a D. olivera, pero se distingue por las hojas diminutamente granuloso-tomentosas y ferruginosas por el env\u00e9s, raquis y pec\u00edolos, y por los fol\u00edolos menores, oblongos-el\u00edpticos, sublanceolados, con nervios secundarios m\u00e1s salientes y m\u00e1s juntos, y con el ret\u00edculo venoso m\u00e1s eminente por el env\u00e9s siendo inconspicuo por el haz. En cambio D. olivera tiene hojas mayores, p\u00e1lidas, con nervios m\u00e1s separados y ret\u00edculo conspicuo por la haz y poco perceptible por el env\u00e9s. Basado en (Cuatrecasas 1957).",
+        "img_main": "http://sweetgum.nybg.org/images3/2610/430/03231021.jpg",
+        "img_thumbnail": "http://sweetgum.nybg.org/images3/2610/430/03231021.jpg",
+        "reproduction": "",
+        "distribution": "Restringida a Colombia espec\u00edficamente al Magdalena Medio en zonas bajas de Bosque h\u00famedo Tropical alrededor de los 900 m de altitud (Cuatrecasas 1957; ICN 2004).",
+        "abstract": "\u00c1rbol de 15-20 m de altura. Al herir el tallo emana una resina con olor a trementina que cuando se coagula se torna blanca. La corteza es en placas delgadas. Las ramas apicales, ejes de las hojas y de la inflorescencia tienen una cubierta furfur\u00e1cea color marr\u00f3n. Las hojas son alternas y compuestas imparipinnadas, con peciolo acanalado de 5-12 cm longitud y raquis de 6-10 cm longitud. Los foliolos son opuestos a subopuestos, se presenta entre 4 y 7pares, son oblongos con el \u00e1pice acuminado y la base obtusa a subcordada, los peciolulos son de 5-9 mm longitud. Los foliolos por el env\u00e9s son pub\u00e9rulos. Las inflorescencias son axilares y de unos 4-15 cm longitud. Los frutos son ovoides, de 2.5-3 cm longitud. Son arboles grandes crecen bosques en buen estado de conservaci\u00f3n y regularmente son talados por su madera. De especies del mismo g\u00e9nero utilizan la resina en medicina e industria (Mendoza com per.).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Sapindales",
+        "family": "Burseraceae",
+        "genus": "Dacryodes",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "56d51bf23c16479905cba8ec",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Mabuya mabouya",
+        "name_common": "Greater Martinique Skink",
+        "names": [
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Greater Martinique Skink"
+            }
+        ],
+        "general_desc": "Posee un hocico prominente, escamas internasales pareadas y separadas al igual que las prefrontales; un par de escamas frotnoparietales; escamas dorsales lisas; cuatro escamas supraciliares, de las cuales la segunda es la m\u00e1s larga, la parte ventral de las patas anteriores y posteriores es clara y est\u00e1 cubierta de tub\u00e9rculos moderadamente grandes; tres escamas supra oculares; un par de escamas nucales de gran tama\u00f1o y no poseen bandas en el dorso de la cabeza (Miralles et al. 2005).",
+        "img_main": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mabuya_dominica.jpg",
+        "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mabuya_dominica.jpg",
+        "reproduction": "Es una especie viv\u00edpara que tiene una madurez sexual temprana, ya que el crecimiento folicular y la ovulaci\u00f3n comienzan cuando la hembra mide alrededor de 70 mm- Sin embargo, \u00e9stas siguen creciendo hasta alcanzar su tama\u00f1o adulto; su periodo gestacional es extendido; actividad reproductiva c\u00edclica y dimorfismo sexual, siendo las hembras m\u00e1s largas que los machos, esto es debido, posiblemente, a la necesidad de soportar el desarrollo \u0093oviductal\u0094 de los embriones (Ramirez-Pinilla 2002). El tama\u00f1o de la camada es en promedio de 43 cr\u00edas y existe una relaci\u00f3n directa entre el tama\u00f1o del individuo y el tama\u00f1o de la camada. La actividad reproductiva en machos se da a lo largo de todo el a\u00f1o, sin embargo, Ramirez-pinilla et al (2002) sugieren que la especie sigue un modelo bimodal, ya que la presencia de neonatos ocurre en meses de baja precipitaci\u00f3n, indicando que el periodo reproductivo de una porci\u00f3n de la poblaci\u00f3n inicia en la primera estaci\u00f3n seca y la otra porci\u00f3n de la poblaci\u00f3n inicia su periodo reproductivo en la segunda estaci\u00f3n seca del a\u00f1o. El periodo de gestaci\u00f3n es de aproximadamente 10 meses.",
+        "distribution": "Mabuya mabouya se encuentra distribuida en las zonas tropicales y subtropicales de Am\u00e9rica (excepto en chile), \u00c1frica y Asia (Ramirez-Pinilla et al 2002), en Mexico (Veracruz, Colima, Michoac\u00e1n, Guerrero, Oaxaca, Tabasco, Campeche, Yucat\u00e1n, Quintana Roo, Chiapas), Guatemala, El Salvador, Nicaragua, Costa Rica, Panam\u00e1, , Trinidad, Tobago, Isla Mona, Isla Monito, islas V\u00edrgenes, islas Turks islas Caicos, Antillas y Colombia (Molano Londo\u00f1o1998).  En Colombia, se encuentra en los siguientes departamentos: Amazonas, Antioquia, Atl\u00e1ntico, Bol\u00edvar, Boyac\u00e1, Caldas, Caquet\u00e1, Casanare, Cauca, Cesar. C\u00f3rdoba, Cundinamarca, Choc\u00f3, Guajira, Huila, Magdalena, Meta, Norte de Santander, Putumayo, Santander, Sucre, Tolima, Valle, Vaup\u00e9s, Isla de San Andr\u00e9s, Isla Providencia (Sensu Ayala 1986). Su distribuci\u00f3n altitudinal va desde el nivel del mar hasta los 1800 m de altura(Rueda-Almonacid et al en Rodr\u00edguez Maecha et al 2008).",
+        "abstract": "Es un lagarto ampliamente distribuido en zonas tropical y subtropicales, en alturas desde el nivel del mar hasta los 1800m. Habita principalmente en la hojarasca, pero se puede encontrar sobre arbustos o palmas. Es muy activa y la mayor parte del tiempo se le puede encontrar forrajeando. Es de h\u00e1bitos diurnos y terrestres. Es una de las pocas especies viv\u00edparas de lagartos colombianos.",
+        "phylum": "Chordata",
+        "classHierarchy": "Reptilia",
+        "order": "Squamata",
+        "family": "Scincidae",
+        "genus": "Mabuya",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": ""
+    },
+    {
+        "_id": "56d7c2f93c16479905cba941",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Espeletia cayetana",
+        "name_common": "Frailej\u00f3n",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Frailej\u00f3n"
+            }
+        ],
+        "general_desc": "El frailej\u00f3n es una roseta caulescente con altura m\u00e1xima de 4 m y capitulescencias de flores color amarillo (Mar\u00edn & Parra 2015).",
+        "img_main": "https://images.phylopic.org/images/40b91c6c-4ef8-4a5a-9b90-85fb50d74c5b/raster/583x586.png",
+        "img_thumbnail": "https://images.phylopic.org/images/40b91c6c-4ef8-4a5a-9b90-85fb50d74c5b/raster/583x586.png",
+        "reproduction": "",
+        "distribution": "Esta es una especie end\u00e9mica de Colombia que se encuentra presente en la regi\u00f3n Andina en la Cordillera Oriental (Avila et al. 2015).",
+        "abstract": "",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "56d903b13c16479905cba981",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Cattleya schroederae",
+        "name_common": "Orqu\u00eddea",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Orqu\u00eddea"
+            }
+        ],
+        "general_desc": "",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/60033208/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/60033208/original.jpg",
+        "reproduction": "Florece en verano, entre diciembre y marzo (Calder\u00f3n 2007).",
+        "distribution": "Especie end\u00e9mica de Colombia presente en tierras c\u00e1lidas a templadas entre 850 y 1600 m de elevaci\u00f3n. Los registros representativos del h\u00e1bitat de la especie se distribuyen en selvas subandinas del piedemonte andino-orinoquense en Boyac\u00e1 (Santa Mar\u00eda, Santa Rosa de Viterbo y Campohermoso), Casanare (Pajarito), Meta (Castilla La Nueva), Arauca, Norte de Santander, Caquet\u00e1 y hacia el valle del R\u00edo Magdalena en Cundinamarca (Silvania) (Calder\u00f3n 2007)..",
+        "abstract": "Flores muy grandes, con p\u00e9talos y s\u00e9palos encartuchados, garganta anaranjada y flor muy perfumada (P\u00e9rez-A. 1978).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Cattleya",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "56d93f843c16479905cba998",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Gynoxys hirsuta",
+        "name_common": "Chilca lanosa",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Chilca lanosa"
+            }
+        ],
+        "general_desc": "La chilca lanosa es un arbusto de 1 m de altura, con hojas blanquecinas y capitulescencias de flores color amarillo (Mar\u00edn & Parra 2015).",
+        "img_main": "http://sweetgum.nybg.org/images3/401/287/v-313-01009271.jpg",
+        "img_thumbnail": "http://sweetgum.nybg.org/images3/401/287/v-313-01009271.jpg",
+        "reproduction": "",
+        "distribution": "Esta es una especie end\u00e9mica de Colombia ubicada en la regi\u00f3n de Andina (Avila et al. 2015).",
+        "abstract": "",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "56dbb5123c16479905cba9f4",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Lupinus colombiensis",
+        "name_common": "Choco",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Choco"
+            }
+        ],
+        "general_desc": "El chocho es un arbusto de 1 m de altura, tiene inflorescencias con flores de color morado blanquecino, hojas peque\u00f1as de 4 cm aproximadamente (Mar\u00edn & Parra 2015).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/12849303/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/12849303/original.jpg",
+        "reproduction": "",
+        "distribution": "Esta es una especie end\u00e9mica de Colombia que se encuentra presente en la regi\u00f3n Andina (Ruiz & Bernal 2015).",
+        "abstract": "",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Lupinus",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "56df22d983c45700544e3c4e",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Paramiflos glandulosus",
+        "name_common": "",
+        "names": null,
+        "general_desc": "El frailej\u00f3n es una roseta caulescente con altura m\u00e1xima de 1.5 m y capitulescencias de flores amarillas (Mar\u00edn & Parra 2015).",
+        "img_main": "https://upload.wikimedia.org/wikipedia/commons/5/55/Espeletia_glandulosa.jpg",
+        "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/55/Espeletia_glandulosa.jpg",
+        "reproduction": "",
+        "distribution": "Esta es una especie end\u00e9mica de Colombia que se encuentra presente en la regi\u00f3n Andina en la Cordillera Oriental (Avila et al. 2015).",
+        "abstract": "",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "56df8c4a83c45700544e3c8d",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Plutarchia coronaria",
+        "name_common": "Coronada",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Coronada"
+            }
+        ],
+        "general_desc": "Esta planta es un arbusto de 80 cm de altura con inflorescencias de flores rojas (Mar\u00edn & Parra 2015).",
+        "img_main": "http://sweetgum.nybg.org/images3/1861/953/02605983.jpg",
+        "img_thumbnail": "http://sweetgum.nybg.org/images3/1861/953/02605983.jpg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce del noreste de la Cordillera Oriental en los departamentos de Cundinamarca, Boyac\u00e1, Norte de Santander y Santander, entre 2.600-3.800 msnm (Killip 20663, Linden s.n., Smith 1950, Luteyn 1999, Bernal et al. 2015).",
+        "abstract": "Arbusto peque\u00f1o. Hojas simples, alternas. L\u00e1minas estrechamente oblongas a oblongo-ovadas, hasta 22 mm de largo. Las flores pueden estar agregadas en fasc\u00edculos de 3-5; pedicelos de hasta 12 mm de largo, algunas veces notoriamente pilosos; bract\u00e9olas de hasta 3 mm de longitud, con algunas gl\u00e1ndulas cubiertas de peque\u00f1os pelos claros; c\u00e1liz 7-8 mm en antesis, hipanto con 5 alas muy marcadas o con alas poco notorias de hasta 1 mm de ancho o menos, l\u00f3bulos de hasta 5 mm de largo y 3 mm de ancho con peque\u00f1as gl\u00e1ndulas en el borde; corola de hasta 16 mm de largo y 6 mm de di\u00e1metro, generalmente pilosa; estambres de hasta 14 mm de largo con filamentos de hasta 3 mm de largo y a menudo conspicuamente pilosos distalmente; anteras de 10-12 mm de largo con t\u00fabulos de 7-8 mm de largo (Smith 1957).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Ericaceae",
+        "genus": "Plutarchia",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "56e34d7083c45700544e3dc9",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Handroanthus serratifolius",
+        "name_common": "Tajibo amarillo",
+        "names": [
+            {
+                "name": "Tajibo amarillo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Puy"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Guayac\u00e1n"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Guayac\u00e1n polvillo"
+            },
+            {
+                "name": "Curarire"
+            },
+            {
+                "name": "Pau d\u0092arco"
+            },
+            {
+                "name": "ip\u00ea-ovo-de-macuco"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "yellow poui"
+            }
+        ],
+        "general_desc": "\u00c1rbol de 5 a 12 m de alto. Hojas digitadas, hojuelas muy variadas en tama\u00f1o, oblongo- lanceoladas hasta aovadas, acuminadas en el \u00e1pice y obtusas a redondeadas en la base, a veces cuneiformes; m\u00e1rgenes aserrados, a veces crenulado-aserrados, de 6-15 cm de largo por 2-6 cm de ancho, glabras en la cara superior o ligeramente pub\u00e9rulas en el nervio central, pilosas en las axilas de los nervios principales de la cara inferior. Flores amarillas, agrupadas en fasc\u00edculos en forma de umbela. C\u00e1liz acampanado, irregularmente lobulado, de 8 a 12 mm de largo, finamente pubescente. Con pelos estrellados. Corola de unos 6 cm de largo; limbo de 4 a 7 cm de di\u00e1metro. Frutos capsulares, alargado-lineales, hasta de 45 cm de largo por 2 cm de ancho (Hoyos, 1985).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/21509637/large.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/21509637/large.jpg",
+        "reproduction": "",
+        "distribution": "Este \u00e1rbol se distribuye en Suram\u00e9rica tropical. En Colombia se encuentra en elevaciones entre los 80 y los 350 msnm en los departamentos de Amazonas, Antioquia, Atl\u00e1ntico, Caldas, Cundinamarca, Norte de Santander, Putumayo, Santander, Vichada (Bernal, Gradstein & Celis (eds.), 2019).",
+        "abstract": "El guayac\u00e1n polvillo es un \u00e1rbol nativo de Colombia, con distribuci\u00f3n en casi toda Sudam\u00e9rica tropical  (Bernal, Gradstein &Celis (eds.) 2019). Alcanza hasta 30 m de altura, con hojas compuestas de 5-7 foliolos y flores con el c\u00e1liz campanulado  (Gentry, 2009). Las flores y la corteza se usan para diversos usos medicinales, adem\u00e1s es una planta maderable que se utiliza para la construcci\u00f3n de durmientes de camino y la fabricaci\u00f3n de instrumentos musicales (Mej\u00eda & Rengifo, 2000).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Lamiales",
+        "family": "Bignoniaceae",
+        "genus": "Handroanthus",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": ""
+    },
+    {
+        "_id": "56e3cc6183c45700544e3e01",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Mauria cuatrecasasii",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Mauria cuatrecasasii Barklye, Bulletin of the Torrey Botanical Club. 74:77-80. (1947) \n\n\u00c1rbol de 7-10 m de altura. Ramas teretes laxas a densamente ferrug\u00edneo-pilosas. Hojas alternas y compuestas-imparipinnadas; peciolo de 5-8.5 cm long, raquis 14-22 cm long, ambos finamente ferrug\u00edneo-pilosos; foliolos 9-14, alternos, oblongo-el\u00edpticos, 7-13x2.5-4.5 cm, de base obtusa-asim\u00e9trica y \u00e1pice acuminado, margen ondulada y engrosada, glabros por la haz, finamente pilosos por el env\u00e9s, de textura membran\u00e1cea, peciolulos de 4-9 mm long. Inflorescencia pan\u00edcula laxamente ramificada, axilar o terminal, aproximadamente de 30 cm long; ejes con cubiertas similares al de las ramas y ejes de las hojas; br\u00e1cteas deltoides y caducas; abundantes flores pediceladas; pedicelo ca 2.5 mm long. C\u00e1liz glabro o externamente piloso, con l\u00f3bulos triangulares. Estambres al parecer 5, con filamentos de ca. 1.5 mm long y anteras oblongas de ca. 1 mm long. Ovario ovoide,  ca. 2.5 mm long, coronado por 5 estigmas de ca. 0.5 mm long. Fruto drupa oblongo-aplanada, ca. 7.5 mm long. Descripci\u00f3n basada en (Barkley 1947) y complementada. \n\nTipo: COLOMBIA. Cundinamarca, 200 m. alt., Cuesta de Fusagasuga, 18-II-1940, J. Cuatrecasas 8062 (Hol\u00f3tipo: US. Nat. 1796044). Basado en (Barkley 1947). \n\nEsta especie es af\u00edn a Mauria ferruginea pero difiere en que tienen hojas mucho m\u00e1s largas, foliolos membran\u00e1ceos y cubierta pilosa menos densa pero en toda la superficie del env\u00e9s. Es cercana a M. sericea pero esta \u00faltima tiene foliolos subs\u00e9siles, de \u00e1pice agudo con una venaci\u00f3n prominente y pilosidad confinada a las venas primarias por el env\u00e9s. Basado en (Barkley 1947). \n\nExisten algunos nombres de subespecies de Mauria cuatrcasasii pero todos son in\u00e9ditos (Mendoza com. pers.).",
+        "img_main": "http://sweetgum.nybg.org/images3/580/702/00050795.jpg",
+        "img_thumbnail": "http://sweetgum.nybg.org/images3/580/702/00050795.jpg",
+        "reproduction": "",
+        "distribution": "Originalmente descrita para Colombia pero con varios registros adicionales para Ecuador, Per\u00fa y Bolivia (ejemplares depositados en los herbarios MO, LPB, NY) provenientes del piedemonte amaz\u00f3nico de los Andes entre los 900 y 1900 m de altitud. Los ejemplares de Colombia, Ecuador y Per\u00fa fueron identificados por el investigador colombiano E. Renter\u00eda en 1983, en el marco de una revisi\u00f3n del g\u00e9nero (trabajo no publicado). El registro de Bolivia (depositado en LPB y NY) fue identificado por un investigador llamado Killeen en 1993. Para Colombia se cuenta con dos registros (colecciones) que corresponden a la del Tipo en el departamento de Cundinamarca a los 2000 m de altitud, y una segunda del departamento de Magdalena (con ejemplares duplicados depositados en los herbarios COL y FMB). Este \u00faltimo registro no cuenta con la altitud pero se estima que puede estar alrededor de los 1200 m en la parte h\u00fameda del Parque Nacional Natural Tayrona, estribaciones de la Sierra Nevada de Santa Marta. Con base en esto, se establece un rango altitudinal entre los 900 y 2000 m, en zonas monta\u00f1osas de Colombia, Ecuador, Per\u00fa y Bolivia (Mendoza com. pers.). 900-2000 m (Mendoza com per.).",
+        "abstract": "\u00c1rbol de hasta 10 m de altura asociado a zonas monta\u00f1osas de los Andes desde el norte de Colombia hasta Bolivia entre los 900 y 2000 m de altitud. Tiene hojas alterna y compuestas-imparipinnadas, la base de los peciolos regularmente son hinchadas en material fresco. Similar a otras Anacardiaceas, presenta un aroma a mango biche al herir cualquier estructura. Desarrolla inflorescencias axilares o terminales en ramilletes laxos llamados pan\u00edculas, y en donde se encuentran abundantes flores de unos 3-4 mm de longitud. Los fruticos son drupas (carnosos y con una sola semilla) y regularmente son oblongos y levemente aplanados, de unos 7 mm de longitud. Basado parcialmente en (Barkley 1947).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Sapindales",
+        "family": "Anacardiaceae",
+        "genus": "Mauria",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "56e5ed0483c45700544e3e8a",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Aspidosperma polyneuron",
+        "name_common": "Carreto",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Carreto"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Carreto blanco"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Comul\u00e1"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Costillo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Costillo acanalado"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cumul\u00e1"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Quimul\u00e1"
+            },
+            {
+                "name": "peroba"
+            },
+            {
+                "name": "peroba-mi\u00fada"
+            },
+            {
+                "name": "peroba-mirim"
+            },
+            {
+                "name": "peroba-comum"
+            },
+            {
+                "name": "peroba-paulista"
+            },
+            {
+                "name": "peroba-rosa"
+            }
+        ],
+        "general_desc": "",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/229863047/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/229863047/original.jpeg",
+        "reproduction": "",
+        "distribution": "Aspidosperma polyneuron posee una distribuci\u00f3n disyunta, por un lado con algunas poblaciones en el noroccidente de Suram\u00e9rica, en Colombia, Venezuela y Per\u00fa, y por el otro lado con algunas en el suroriente del continente, en Argentina, sur de Brasil y Paraguay (Marcondes-Ferreira 1988).En Colombia se distribuye por la costa atl\u00e1ntica, el valle del r\u00edo Magdalena y el piedemonte magdalenense de las cordilleras Oriental y Central; en los departamentos de Atl\u00e1ntico, Bol\u00edvar, Boyac\u00e1, Cesar, C\u00f3rdoba, Cundinamarca, La Guajira, Magdalena, Santander, Sucre y Tolima, desde el nivel del mar hasta los 600 m de altitud (Salinas y C\u00e0rdenas, 2007).",
+        "abstract": "El Carreto se encuentra distribuido en la Costa Atl\u00e1ntica, en las cordilleras central y oriental, en alturas desde el nivel del mar hasta los 600 msnm. Puede crecer tanto en bosques secos como en bosques h\u00famedos. Es muy apetecido por la calidad de su madera, ya que es usada en la elaboraci\u00f3n de muebles y pisos.",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Gentianales",
+        "family": "Apocynaceae",
+        "genus": "Aspidosperma",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "56e6d86783c45700544e3ec9",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Trichilia acuminata",
+        "name_common": "Mangle",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mangle"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mangle rojo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mangle blanco"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Manglesito"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Negrito"
+            }
+        ],
+        "general_desc": "\u00c1rbol de hasta 15 m de alto con corteza marr\u00f3n a gris, rugosa hasta fisurada, algunas veces lenticelada, pero sin escamas. Hojas unifolioladas, peciolo 1-1.5 cm de largo, semiterete, reducidamente estrigoso a glabro. Foliolo el\u00edptico, \u00e1pice corto atenuado, base generalmente cuneado a atenuado, cartaceo a cori\u00e1ceo, 10-17 cm de largo, 5-7.5 cm de ancho, glabros, usualmente con venaci\u00f3n glandular y estriada eucantodroma, medianamente delgado a ligermanete prominente; secundarias 13-15 cada lado. La inflorescencia es axilar, de 2 a 10 cm de largo, una pan\u00edcula con ramificaci\u00f3n espigada, o tirsos con una pan\u00edcula esbelta de ramas cortas laterales, con flores muy agrupadas y s\u00e9siles (Pennington et al. 1981; Morales-Puentes 1998).     \n\nEl c\u00e1liz es ciatiforme amplio, grueso en la base, 1-1.5 mm de largo con 5-6 lobulos acuminados \u00bc de largo del c\u00e1liz, estrigoso a subglabro. P\u00e9talos 5-6 fusionados a la mitad de la longitud del c\u00e1liz, valvados, 2 mm de largo, 0.75 mm de ancho, lanceolado, \u00e1pice acuminado, ligeramente encapuchado, estrigoso por fuera, glabro por dentro, tubo 5-estaminal formando una copa; filamentos completamente fusionados, 1.25 mm de largo cada uno, 1 mm de grueso, margen  con 5-6 lobulos lanceolados acuminados, alternando con las anteras. Anteras 5-6, 0.3-0.7 mm de largo, glabras. Nectario ausente. Ovario ovoide, trilocular, l\u00f3culo con dos \u00f3vulos laterales, densamente puberulos; estilo glabro; estilo al final apiculado. Anteras iguales. El fruto es una c\u00e1psula un poco ovoide a elipsoide, lisa, densamente granulosa con pelos esparcidos estrigosos, 1-1.6 cm de largo, 0.7-0.8 cm de ancho, 3 valvas; pericarpo suave, 0.5 cm de grueso aproximadamente; endocarpo peque\u00f1o cartilaginoso. Semillas 1-2, colaterales en cada fruto, 0.6-1.3 cm de largo, rodeadas completamente de un arilo carnoso que tambi\u00e9n se desarrolla alrededor de \u00f3vulos abortados, arilo extendi\u00e9ndose desde la base al \u00e1pice, libre excepto cuando se aproxima al rafe; testa delgada membranosa. Embri\u00f3n blanco plano-convexo, cotiledones colaterales, rad\u00edcula apical, endospermo ausente. Se agrupa con otras dos especies de Trichilia, T singularis y T. Oligofoliolata, de la primera se diferencia porque T. Singularis puede tener m\u00e1s de un foliolo, mientras que de T. Oligofoliolata se diferencia por tener flores sentadas, en tanto que T. Oligofoliolata tiene ped\u00fanculo de hasta 3 mm de largo (Pennington et al. 1981; Morales-Puentes 1998).",
+        "img_main": "http://fm-digital-assets.fieldmuseum.org/187/951/MELI_tric_acum_2100589.jpg",
+        "img_thumbnail": "http://fm-digital-assets.fieldmuseum.org/187/951/MELI_tric_acum_2100589.jpg",
+        "reproduction": "Florece de abril a julio. Tiene flores s\u00e9siles, blancas peque\u00f1as de 1 a 1.5 mm de largo, en inflorescencias de 15 cm de largo (Pennington et al. 1981).",
+        "distribution": "Se encuentra registrada para el bosque h\u00famedo lluvioso en Panam\u00e1 y en Colombia para la costa Caribe en bosques secos. Existe un solo registro para Cundinamarca de parte alta de la cuenca del r\u00edo Magdalena (Pennington et al. 1981; Missouri Botanical Garden 2015). Ha sido encontrado desde los 80 msnm en el bosque seco del departamento de Bol\u00edvar en la zona de Turbaco, de donde proviene el holotipo, hasta el bosque h\u00famedo tropical de Panam\u00e1. Se ha reportado desde 200 hasta 350 msnm en otras localidades de Colombia como en Pandi y R\u00edo Seco (Cundinamarca). En Venezuela se ha registrado en el estado de Bol\u00edvar a 600 msnm (Pennington et al. 1981; Mendoza-C 1999; Missouri Botanical Garden 2015).",
+        "abstract": "\u00c1rbol de hasta 15 metros de altura y 15 cm de di\u00e1metro en el tronco, erecto y circular, con corteza gris a oscura, ocasionalmente con lenticelas, rugoso y en ocasiones algo agrietado. Abundantes ramitas bifurcadas. Hojas compuestas de un solo foliolo alternas, de consistencia cori\u00e1cea, el\u00edpticas con el \u00e1pice alargado, entre 10 y 17 cm de largo, 5 a 7.5 cm de ancho. Los frutos miden de 1 a 1.6 cm de largo, 0.5 a 0.7 cm de grosor, est\u00e1n cubiertos de diminutos pelos y tienen pulpa roja dulce. (Pennington et al. 1981; Mendoza-C 1999).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Sapindales",
+        "family": "Meliaceae",
+        "genus": "Trichilia",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": ""
+    },
+    {
+        "_id": "56e7816a83c45700544e406d",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Harpia harpyja",
+        "name_common": "\u00c1guila arp\u00eda",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "\u00c1guila arp\u00eda"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "\u00c1guila miquera"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "\u00c1guila churuquera"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Harpy Eagle"
+            }
+        ],
+        "general_desc": "La clasificaci\u00f3n taxon\u00f3mica empleada por los autores es la propuesta por Brown y Amadon (1968) y del Hoyo et al. (1994), que incluye dentro del orden Falconiformes tanto a los buitres del Nuevo Mundo como a las dem\u00e1s rapaces.",
+        "img_main": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Harpia_chega_ao_ninho_com_um_macaco-prego.jpg",
+        "img_thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Harpia_chega_ao_ninho_com_um_macaco-prego.jpg",
+        "reproduction": "",
+        "distribution": "Usualmente hasta 1.000 msnm (Registro r\u00edo Salaqu\u00ed a 1.600 msnm) Choc\u00f3 (PNN Los Kat\u00edos), r\u00edo Bajir\u00e1 en Antioquia, alto Sin\u00fa (Municipio de Tierra Alta), serran\u00eda del Baud\u00f3, Quibd\u00f3. Valle del cauca (Anchicay\u00e1). Originalmente en el Magdalena medio al sur de Bucaramanga y alto Magdalena (Tolima). Meta (serran\u00eda de La Macarena), Caquet\u00e1 y Amazonas (Leticia) y PNN Amacayacu (Hilty & Brown 1986).",
+        "abstract": "Muy grande, robusta, cabeza gris, copete er\u00e9ctil bifurcado \"abanico\" de plumas en el cuello y nuca, pecho negro, tarsos muy gruesos. Cola larga, alas cortas y redondas. Especies similares: Morphnus guianensis, pero difieren en tama\u00f1o y grueso de tarsos y garras principalmente. Su nombre harpyja es equivalente a Harpia. Vive en los bosques tropicales de Am\u00e9rica por debajo de los 1.000 msnm.",
+        "phylum": "Chordata",
+        "classHierarchy": "Aves",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "genus": "Harpia",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "56e783ad83c45700544e408d",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Dacnis hartlaubi",
+        "name_common": "Dacnis Turquesa",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Dacnis Turquesa"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Turquoise Dacnis"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Turquoise Dacnis-Tanager"
+            }
+        ],
+        "general_desc": "Los ojos de esta ave son amarillentos; la coloraci\u00f3n del macho es turquesa con negro; la garganta y la m\u00e1scara ocular son de color negro; la coronilla, la nuca y el anillo ocular son color turquesa; el resto del cuerpo por encima es color negro con los hombros, las escapulares y la rabadilla color turquesa; la coloraci\u00f3n de la hembra es por encima caf\u00e9 opaco, las cobertoras alares y las secundarias internas son marginadas de color ante leonado p\u00e1lido; por debajo el cuerpo es color ante gris\u00e1ceo, y el centro del pecho y el abdomen son color blanco amarillento; el pico es como en el g\u00e9nero Tangara (Hilty y Brown 2001).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/173889387/large.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/173889387/large.jpeg",
+        "reproduction": "Hilty y Brown (2001) colectaron un individuo en condici\u00f3n reproductiva en Cundinamarca a comienzos de agosto.",
+        "distribution": "Antioquia, Boyac\u00e1, Cundinamarca, Huila, Quind\u00edo, Risaralda, Valle de Cauca. Piedemonte de la vertiente Pac\u00edfica en bajo Dagua; vertiente oeste de la Cordillera central en Quind\u00edo y vertiente oeste de la Cordillera Oriental (Hilty y Brown 2001). End\u00e9mica de Colombia (Hilty y Brown 2001; Stiles 1998). Entre 300 y 2200 msnm (Hilty y Brown 2001; Botero y Verhelst. 2002). Regi\u00f3n natural Andina (Salaman et al. 2009).",
+        "abstract": "Similar a Dacnis lineata que es un ave color turquesa m\u00e1s brillante, no tiene anillo ocular ni la garganta negra, y tiene el abdomen color amarillo y el pico es m\u00e1s delgado (Hilty y Brown 2001).",
+        "phylum": "Chordata",
+        "classHierarchy": "Aves",
+        "order": "Passeriformes",
+        "family": "Thraupidae",
+        "genus": "Dacnis",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "56e83d6383c45700544e43d7",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Tillandsia chartacea",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Planta terrestre que mide de 65 a 70 cm de altura. Las hojas son arrosetadas, miden 27 a 30 cm de longitud, sin pseudopec\u00edolo, lepidotas por ambas superficies, triangulares y margen entera. La inflorescencia terminal es visible,erecta, mide de 15 a 17 cm de largo, bipinnada y con raquis oculto. Br\u00e1cteas florales imbricadas, tiene carina, m\u00e1s largas que los s\u00e9palos, de color verde, lepidotas, \u00e1pice recto y margen entero. Las flores tienen un pedicelo de 1 a 2 mm de largo y son d\u00edsticas. El fruto es una c\u00e1psula y la semilla comosa (Betancur 2001).\n\nPosee adaptaciones morfol\u00f3gicas especializadas para desarrollarse en ambientes rocosos y secos (Avellaneda Cadena & Betancur 2007).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/105446272/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/105446272/original.jpeg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de la Cordillera Oriental sobre la Sabana de Bogot\u00e1 en el municipio de Suesca sobre escarpes rocosos aislados por potreros, departamento de Cundinamarca, entre 2.580-2.800 msnm (Smith 1957; Smith & Downs 1977; Betancur 2000, 2001; Garc\u00eda 2001; Betancur & Garc\u00eda 2006; Avellaneda Cadena & Betancur 2007; Bernal et al. 2015). Smith & Downs (1977) registran una variedad de T. chartacea diferente a la Colombiana para Per\u00fa (Cerrate-307, 454, Ferreyra-6213 (US, USM)). Sin embargo, debido a que Bromeliaceae presenta un elevado grado de endemismo y distribuciones con tal grado de disyunci\u00f3n no son frecuentes en la familia (Betancur & Garc\u00eda 2006), se tienen dudas en la identificaci\u00f3n del esp\u00e9cimen Peruano, por lo cu\u00e1l no se incluye este registro en los an\u00e1lisis de distribuci\u00f3n.",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba end\u00e9mica de Colombia. Se encuentra creciendo sobre rocas en zonas expuestas en el bosque muy h\u00famedo premontano, montano bajo y montano en la Cordillera Oriental.",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Tillandsia",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "56e841cd83c45700544e43f4",
+        "exotic": true,
+        "invasive": false,
+        "name_scientific": "Vanilla planifolia",
+        "name_common": "Vainilla",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Vainilla"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Platanillo"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Vainilla"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Bourbon vanilla"
+            },
+            {
+                "language": "Portugu\u00e9s",
+                "name": "Baunilha"
+            }
+        ],
+        "general_desc": "\"Planta de tallos suculentos, largos, de m\u00e1s de 3 m, trepadores, con ra\u00edces adventicias de trecho en trecho; hojas oblongo-el\u00edpticas a angosto-lanceoladas; 11 a 17 cm de largo por 2.4 a 7.5 cm de ancho, \u00e1pice agudo o cortamente acuminado, peciolo de 1 cm de largo, inflorescencia axilar racemosa con unas 20 flores, las cuales no todas son f\u00e9rtiles y con br\u00e1cteas persistentes, flores de color amarillo verdoso, s\u00e9palos y p\u00e9talos oblanceolado-oblongos, obtusos, 4.5 a 7 cm de largo, 2.3 cm de ancho, labelos infundibuliforme con el \u00e1pice reflexo, unido casi hasta el \u00e1pice con la columna a la cual envuelve, 4 a 5 cm de largo, 1.3 a 5 cm de ancho, disco con l\u00edneas longitudinales papilosas, columna encorvada pubescente en la parte ventral, fruto capsular cil\u00edndrico, dehiscente de 18 a 30 cm de largo, 1 a 1.5 cm de di\u00e1metro, de color pardo negruzco y lustroso cuando maduro, semillas numerosas, esf\u00e9ricas, de color negro-brillante de 1.25 mm de di\u00e1metro\" (Garc\u00eda-Barriga 1992).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/14981523/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/14981523/original.jpeg",
+        "reproduction": "La vainilla alcanza su madurez reproductiva entre dos a cuatro a\u00f1os, aqu\u00ed inicia la floraci\u00f3n y su fructificaci\u00f3n es anual. La floraci\u00f3n se da en los meses abril \u2013 junio, y dura entre dos y tres meses, el desarrollo de frutos puede tardar entre ocho y nueve meses luego de la fecundaci\u00f3n (IAvH & Ecopetrol, 2022).\n\nLa reproducci\u00f3n sexual de la vainilla es poco exitosa ya que la fecundaci\u00f3n de las flores es baja debido a que requiere de polinizadores espec\u00edficos, adicionalmente, los frutos pueden contener sustancias que limitan la germinaci\u00f3n de la semilla. Por esta raz\u00f3n, la reproducci\u00f3n por medio de esquejes con o sin ra\u00edces son la t\u00e9cnica m\u00e1s efectiva y tambi\u00e9n la m\u00e1s utilizada (IAvH & Ecopetrol, 2022).",
+        "distribution": "Originaria de los bosques tropicales h\u00famedos de M\u00e9xico y Am\u00e9rica Central; llevada a Europa durante la \u00e9poca de la Conquista, llegando a \u00c1frica y Asia (UAEM, 2015).. En Colombia se encuentra en Bol\u00edvar, Cundinamarca, Magdalena y Nari\u00f1o (Garc\u00eda-Barriga 1992).",
+        "abstract": "Es una planta herb\u00e1cea, originaria de M\u00e9xico y Centroam\u00e9rica, distribuida por Suram\u00e9rica y Asia; utilizada tradicionalmente por diferentes comunidades en pr\u00e1cticas alimenticias e industriales. Se encuentra en el medio natural y tambi\u00e9n en sistemas productivos en solitario y asociada a diversas especies agr\u00edcolas (UAEM, 2015).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Vanilla",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "595eb69a2f4fd7bc7f3a2d18",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Huilaea mutisiana",
+        "name_common": "",
+        "names": null,
+        "general_desc": "\u00c1rbol de 6-7 metros, con ramos juveniles, pec\u00edolos e inflorescencias ferrug\u00edneo \u2013 tomentosos con pelitos irregularmente papilosos. Hojas medianas: pec\u00edolo estriado de 2-4 cm; l\u00e1mina cart\u00e1cea, el\u00edptica o el\u00edptico-lanceolada, acuminada con corto ap\u00edculo, redondeada y aun emarginada en la base denticulado-mucronada; brevemente 5-plinervia y eventualmente con otros dos nervios marginales tenues, las venas transversales numerosas; en el haz glabra, en el env\u00e9s con nerviaci\u00f3n saliente y denso tomento ferrug\u00edneo, la superficie parcamente granulosa. Inflorescencias pareadas una en cada axila contigua, en cima de 3-5 flores robustas agrupadas o las dos basales algo distancias, en largo ped\u00fanculo de 12-21 cm suberecto y con la edad m\u00e1s o menos p\u00e9ndulo; br\u00e1cteas largas y angostas prontamente caedizas. Flores 6-meras con robusto pedicelo rufo-tomentoso de 1-2 cm: hipantio campanulado, le\u00f1oso, rufocrustulado; tubo calicinal le\u00f1oso de 1,5 cm de largo truncado en el v\u00e9rtice y con 6 dientecillos tuberculiformes hasta 3 mm.; p\u00e9talos espatulados con el v\u00e9rtice redondeado, glabros, carnosos, blancos en la parte inferior y rosados exteriormente en la superior; estambres con filamento cil\u00edndrico-aplanado; anteras oblongo-lineares dehiscentes por dos peque\u00f1os poros ventro-terminales independientes; conectivo robusto con un peque\u00f1o ap\u00e9ndice plano o foveolado encima de la base y dos diminutos tub\u00e9rculos vetrales debajo de la tecas; ovario 6-locula soldado al hipantio; estilo cil\u00edndrico, blancuzco, delgado de 4 -4,2 cm con estigma puntiforme. Fruto suburceolado, mediano, con manchitas obscuras, vuelto hacia abajo por torsi\u00f3n apical del ped\u00fanculo semillas numerosas, piramidadas, \u00e1speras (Uribe, 1976).",
+        "img_main": "https://pictures.bgbm.org/digilib/Scaler/IIIF/B!10!02!48!19!B_10_0248198.jpg/full/2048,/0/default.jpg",
+        "img_thumbnail": "https://pictures.bgbm.org/digilib/Scaler/IIIF/B!10!02!48!19!B_10_0248198.jpg/full/2048,/0/default.jpg",
+        "reproduction": "",
+        "distribution": "Huilaea mutisiana se localiza en Colombia, departamento de Boyac\u00e1 cerca al l\u00edmite con Cundinamarca (Uribe 1976). \u00c1rbol de bosques h\u00famedos por encima de 2.500 m.s.n.m (Uribe 1976).",
+        "abstract": "",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Myrtales",
+        "family": "Melastomataceae",
+        "genus": "Chalybea",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": ""
+    },
+    {
+        "_id": "59716e922f4fd7bc7f3a6f96",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Magnolia arcabucoana",
+        "name_common": "MAGNOLIO",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "MAGNOLIO"
+            }
+        ],
+        "general_desc": "Ramillas con lenticelas; hojas cart\u00e1ceas (de consistencia como pergamino), pec\u00edolos muy engrosados en la base, alternas, lamina foliar largamente obovada mayor a 25 cm de longitud, pec\u00edolos glabros; con cicatriz estipular; Capullo floral el\u00edptico, flores terminales con p\u00e9talos de color crema gruesos, hipsofilos vaginales caducos amplectentes, s\u00e9palos de color verde amarillento obovados, base truncada engrosada, estambres color crema angostamente ovados, gineceo color crema obovado s\u00e9sil, carpelos formando un solo \u00f3rgano (Lozano 1983).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/140280646/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/140280646/original.jpeg",
+        "reproduction": "No se conoce el fruto de esta especie, y se ha encontrado en floraci\u00f3n en Octubre; tiene flores hermafroditas (Lozano 1983, Calder\u00f3n et al 2007).",
+        "distribution": "Este \u00e1rbol se encuentra al oriente del departamento de Cundinamarca, y en la frontera entre Santander y Boyac\u00e1 sobre la cordillera oriental (Calder\u00f3n et al 2007). Esta planta se conoce entre el rango altitudinal entre 2000 y 2250 m (Calder\u00f3n et al 2007).",
+        "abstract": "",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Magnoliales",
+        "family": "Magnoliaceae",
+        "genus": "Magnolia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "59d073445f369343442f7d20",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Aotus lemurinus",
+        "name_common": "Marteja",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Marteja"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Marta"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mico de noche"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Sorbe humo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mico tuto"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mico chala"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Maca cagao"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Lemurine Night Monkey"
+            }
+        ],
+        "general_desc": "Aotus lemurinus comprende un complejo de especies, las cuales constituyen el \u00fanico caso de especies gemelas conocido en los primates neotropicales. A. l. Lemurinus, A. l. griseimembra y A.l. zonalis; aunque estas han sido elevadas a especies se menciona su complejidad en cuanto a la separaci\u00f3n. Existen diferencias cariologicas entre lo que antes eran tratadas como subespecies de Aotus lemurinus, no se han evidenciado diferencias en la morfometr\u00eda de sus cr\u00e1neos y mand\u00edbulas (Rodr\u00edguez-Mahecha et al., 2006), no se han encontrado diferencias en los an\u00e1lisis morfom\u00e9tricos de los cr\u00e1neos y mand\u00edbulas e incluso las tasas de divergencia gen\u00e9tica entre las subespecies A. l. lemurinus y A. l. griseimembra es baja (1.8%) (Ruiz-Garc\u00eda et al., 2016).  \n\nEl mono nocturno andino es un primate de tama\u00f1o peque\u00f1o que no presenta dimorfismo sexual. La longitud de la cabeza y el cuerpo es de 240 a 370 mm, la longitud de la cola es de 310 a 400 mm y el peso var\u00eda entre 650 y 1300g. El pelaje de A. lemurinus exhibe una contextura lanuda y densa (2,6-3,6 mm), el dorso y las extremidades var\u00edan en coloraci\u00f3n, desde parduzco gris\u00e1ceo hasta pardusco rojizo. Las extremidades pueden tener una terminaci\u00f3n m\u00e1s oscura que el resto del cuerpo y presentan dedos alargados y delgados. El vientre desde el cuello hasta el final del t\u00f3rax es de color amarillo opaco. La cara es redonda y peque\u00f1a en relaci\u00f3n al cuerpo, y esta bordeada por bandas blancas con manchas circundantes similares a cejas, en el centro y en el borde exterior de los ojos presentan tres manchas negras que se unen a la coronilla. Los ojos son de color caf\u00e9 y de gran tama\u00f1o con respecto a la cara. Las orejas son peque\u00f1as y poco visibles entre la frondosidad del pelaje. La cola no prensil es m\u00e1s larga que la cabeza y el cuerpo y presenta la misma coloraci\u00f3n del dorso culminando con un mech\u00f3n oscuro, en los adultos se observa una mancha oscura en la base ventral de la cola en posici\u00f3n caudal a los genitales (Defler, 2010). La f\u00f3rmula dental es i 2/2, c 1/1, p 3/3, m 3/3, total 36 (Reid, 2009; Romero-Valenzuela & Rumiz, 2010).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/179280842/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/179280842/original.jpg",
+        "reproduction": "Es mon\u00f3gamo y se encuentra en grupos familiares de dos a cinco individuos conformados por los padres y las cr\u00edas, las cuales desde los primeros d\u00edas de nacimiento permanecen en el lomo del padre y solo son cargadas por su madre para ser amamantadas, el tiempo de gestaci\u00f3n es de aproximadamente 133 d\u00edas y generalmente solo nace una cr\u00eda por a\u00f1o. La maduraci\u00f3n sexual se da alrededor de los dos a\u00f1os y medio, y puede ser reconocida f\u00e1cilmente, puesto que los individuos adultos presentan una mancha oscura en la cola producto de la segregaci\u00f3n de una gl\u00e1ndula denominada la gl\u00e1ndula subcaudal, la cual secreta hormonas sexuales de reconocimiento entre individuos (Defler, 2010; Fern\u00e1ndez-Duque, 2012). El pico de nacimientos se presenta al inicio de la temporada de lluvias (Fern\u00e1ndez-Duque, 2007).",
+        "distribution": "Se extiende por Colombia, Venezuela y Ecuador. Para Colombia esta reportada en las Cordilleras Central y Oriental, entre los 1000 a 3200 msnm (Defler 2003, Morales-Jim\u00e9nez & de la Torre 2008).\n\nEn Colombia se puede encontrar en los departamentos de Antioquia, Caldas, Cauca, Caquet\u00e1, Boyac\u00e1, Cundinamarca, Huila, Nari\u00f1o, Quind\u00edo, Risaralda, Santander, Tolima, Valle del Cauca (Defler, Bueno & Hern\u00e1ndez-Camacho., 2001; Casta\u00f1o, Mu\u00f1oz-Saba, Botero & V\u00e9lez., 2003; Casta\u00f1o y Cardona, 2005; P\u00e9rez-Torres, Palacio-Guerero, S\u00e1nchez-Lalinde, Pardo-Afanados & C\u00f3rtes-Delgado, 2007; Morales-Jim\u00e9nez & de la Torre, 2008; Ram\u00edrez-Chaves & Noguera-Urbano, 2010; Ram\u00edrez-Chaves& P\u00e9rez, 2017; S\u00e1enz-Jim\u00e9nez, 2010; Rojas-Di\u00e1z, Reyes-Guti\u00e9rrez & Alberico , 2012; Solari , Mu\u00f1os-Saba, Rodr\u00edguez-Mahecha, Defler Ram\u00edrez-Chaves & Fernando trujillo, . 2013; Cuartas-Calle & Arango, 2003; Montilla, Cepeda-Duque & Bustamante Manrique., en prensa).",
+        "abstract": "El mono nocturno andino se encuentra asociado a diferentes tipos de bosques que var\u00edan en su estado de conservaci\u00f3n, pudiendo habitar desde bosques primarios a peque\u00f1os fragmentos inmersos en matrices de cultivo, potreros y hasta zonas periurbanas. Es un primate peque\u00f1o, de cabeza redondeada y grandes ojos. Su pelaje es de color gris\u00e1ceo y de aspecto lanudo dado su pelaje denso. El vientre en de color amarillo o naranja y el pelaje de su cola var\u00eda entre amarillo y caf\u00e9 oscuro, con la punta negra (Defler, 2003). Este primate se alimenta principalmente de frutos, flores y hojas y en menor proporci\u00f3n alimento de origen animal como artr\u00f3podos, huevos de aves y peque\u00f1os vertebrados. Los grupos familiares de mono nocturno est\u00e1n compuestos generalmente por un macho y una hembra adultos y desde uno a tres cr\u00edas que posteriormente se dispersan para formar nuevos grupos familiares. Las actividades que m\u00e1s realiza el mono nocturno en las noches son el movimiento y el forrajeo dedicando menor tiempo en el reposo, las vocalizaciones y las interacciones sociales. Los dormideros los establece entre las cavidades y las bifurcaciones de los \u00e1rboles, aprovechando tambi\u00e9n el follaje frondoso (Defler, 2010; Casta\u00f1o, Cardona & Botero, 2010).",
+        "phylum": "Chordata",
+        "classHierarchy": "Mammalia",
+        "order": "Primates",
+        "family": "Aotidae",
+        "genus": "Aotus",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "59d26a1d5f369343442f8dbc",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Astroblepus mariae",
+        "name_common": "\u739b\u4e3d\u4e9a\u89c6\u661f\u9cb6",
+        "names": [
+            {
+                "name": "\u739b\u4e3d\u4e9a\u89c6\u661f\u9cb6"
+            },
+            {
+                "name": "\u746a\u9e97\u4e9e\u8996\u661f\u9bf0"
+            }
+        ],
+        "general_desc": "Radios en la aleta dorsal, un radio simple y seis ramificados; aleta anal, uno simple y seis ramificados; p\u00e9lvicas un radio simple y diez ramificados;  ventrales un radio simple y cuatro ramificados. Respecto a la longitud de la cabeza, la longitud del hocico est\u00e1 contenida entre 1,0-2,0, el ancho de la boca entre 2,0-3,0 e inter-orbital entre 3,0-4,0. Mand\u00edbula superior con 8 dientes c\u00f3nicos  grandes de cada lado, y en la interior 3-4 filas de dientes b\u00edfidos.  Mand\u00edbula inferior con 3 filas de dientes b\u00edfidos, aproximadamente 6 a lo largo del borde externo de cada rama mandibular, y fila m\u00e1s interna de dientes b\u00edfidos m\u00e1s peque\u00f1os aproximadamente 12 en cada ramo (Fowler 1919).",
+        "img_main": "https://images.phylopic.org/images/35dac003-e0f9-4f52-970c-2c42d5efb719/raster/1024x473.png",
+        "img_thumbnail": "https://images.phylopic.org/images/35dac003-e0f9-4f52-970c-2c42d5efb719/raster/1024x473.png",
+        "reproduction": "",
+        "distribution": "Cuenca del alta del Meta (1800msnm), arroyos afluentes del r\u00edo Negro arroyos en el Municipio de Choach\u00ed (Cundinamarca) (Fowler 1919).",
+        "abstract": "Astroblepus mariae, es una especie de bagre end\u00e9mica de la cuenca alta del Meta, y puede alcanzar 88 mm de longitud est\u00e1ndar. Cuerpo de color marr\u00f3n claro; ventralmente bajo la cabeza, el pecho y el vientre es blanco; aletas, dorsal, anal, caudal, pectorales y ventrales con melan\u00f3foros oscuros, y los radios de tonalidades m\u00e1s oscuros en su base. Origen de la aleta dorsal, ubicada en una vertical en el origen de las p\u00e9lvicas; primer radio de la aleta pectoral sobrepasa el origen de la aleta p\u00e9lvica. Porci\u00f3n basal superior de los radios pectorales con espinas. Superficie superior de la cabeza y predorsal con papilas muy peque\u00f1as y ligeramente dispersas, que se vuelven m\u00e1s diminutas y aglomeradas en la base dorsal y finalmente obsoletas en el resto del tronco.",
+        "phylum": "Chordata",
+        "classHierarchy": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Astroblepidae",
+        "genus": "Astroblepus",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": ""
+    },
+    {
+        "_id": "5b58de87f0d3bfe030572874",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Pentacalia summapacis",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://fm-digital-assets.fieldmuseum.org/142/033/V0077001F.jpg",
+        "img_thumbnail": "https://fm-digital-assets.fieldmuseum.org/142/033/V0077001F.jpg",
+        "reproduction": "",
+        "distribution": "Pentacalia summapacis se encuentra en el complejo de p\u00e1ramo Cruz Verde \u2013 Sumapaz, en los departamentos de Cundinamarca y Meta, en un rango altitudinal entre 3.500 y 4.200 metros.",
+        "abstract": "Subarbustos hasta de 1 m de altura. Ramas m\u00e1s o menos anguladas, nodosas, densamente lanosas y con las hojas agrupadas hacia la porci\u00f3n terminal de las ramas, cubiertas de indumento aracnoideo, pub\u00e9rulo, gris\u00e1ceo. Hojas simples, alternas, peque\u00f1as, s\u00e9siles o subs\u00e9siles y bastante gruesas y cori\u00e1ceas; l\u00e1mina foliar de 1.6-2.0 cm longitud x 1.2-1.5 cm de ancho, ovada a anchamente ovada, \u00e1pice obtuso, acuminado, base truncada a cordada, abrazadora, margen fuertemente revoluta. Inflorescencias en pan\u00edculas terminales, de unos 4 cm de longitud, casi siempre con 12 cap\u00edtulos, ramitas gruesas, angulosas y muy lanosas, pedicelos cortos y lanos\u00edsimos, cal\u00edculo formado generalmente por 5-6 bract\u00e9olas linear-lanceoladas, subimbricadas, muy lanosas y tapadas por el indumento, involucro acampanado, generalmente con 8 filarias engrosadas, ovado-oblongas, agudas, densamente lanosas en el dorso. Flores todas hermafroditas, cerca de 80 por cap\u00edtulo, corola amarillo p\u00e1lido, glabra, ramas estigm\u00e1ticas truncadas y papilosas ovario glabro, pappus blanco (D\u00edaz-Piedrah\u00edta y Cuatrecasas 1999).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "Pentacalia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "5b58f4b0f0d3bfe030572c0c",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Berberis carupensis",
+        "name_common": "U\u00f1a de gato",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "U\u00f1a de gato"
+            }
+        ],
+        "general_desc": "",
+        "img_main": "https://fm-digital-assets.fieldmuseum.org/53/210/V0052650F.jpg",
+        "img_thumbnail": "https://fm-digital-assets.fieldmuseum.org/53/210/V0052650F.jpg",
+        "reproduction": "",
+        "distribution": "Berberis carupensis solo ha sido registrada en la cordillera Oriental, en el complejo de p\u00e1ramo Guerrero, departamento de Cundinamarca, en un rango altitudinal entre 2.800 y 3.000 metros.",
+        "abstract": "Arbusto hasta de 4 m de altura, ramas teretes, cin\u00e9reas; hojas cori\u00e1ceas, glabras, articulada sobre la vaina; haz verde oliva oscuro, glabra, margen sin dientes o entera; nervadura central tenue; de 5 a 9 nervaduras secundarias tenues en el haz y prominentes en el env\u00e9s; env\u00e9s verde oliva p\u00e1lido o ferrug\u00edneo, papiloso; inflorescencia paniculada, con 13 a 44 flores; 4 br\u00e1cteas, ocre, ovadas, papilosas; 6 s\u00e9palos ocre amarillo, 6 p\u00e9talos amarillo oro; nectario apiculado-dentado. Esta especie es distinguible por el ret\u00edculo foliar del haz denso pero bien conspicuo, el margen foliar frecuentemente entero y las inflorescencias pub\u00e9rulas (Camargo 1981).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Ranunculales",
+        "family": "Berberidaceae",
+        "genus": "Berberis",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "5b58fc8df0d3bfe030572df9",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Berberis uribei",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://herbario.jbb.gov.co/images/herImages/photos/JBB15240.jpg",
+        "img_thumbnail": "https://herbario.jbb.gov.co/images/herImages/photos/JBB15240.jpg",
+        "reproduction": "",
+        "distribution": "Berberis uribei se encuentra en el complejo de p\u00e1ramo Cruz Verde \u2013 Sumapaz, departamento de Cundinamarca, en un rango altitudinal entre 3.000 y 3.200 metros.",
+        "abstract": "Arbusto hasta de 3 m de altura. Tallos con espinas, la madera es amarilla. Hojas simples, alternas, agrupadas como en verticilos; laminas obovadas, cart\u00e1ceas a cori\u00e1ceas, haz verde y env\u00e9s blanquecino, margen con peque\u00f1as espinas, nervaduras prominentes en el env\u00e9s. Inflorescencias en pan\u00edculas, hasta con 30 flores. Flores con s\u00e9palos y p\u00e9talos color amarillo. Frutos en bayas (Camargo 1991).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Ranunculales",
+        "family": "Berberidaceae",
+        "genus": "Berberis",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "5b59d32af0d3bfe030572ed5",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Pernettya hirta",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Arbusto postrado de unos 10 cm de altura. Ramas subteretes. Indumento de pelos largos, color vi\u00f3laceo o marr\u00f3n rojizo, en ramas, hojas e inflorescencias. Hojas simples, alternas; l\u00e1minas subcori\u00e1ceas, el\u00edpticas u oblongo-el\u00edpticas, 17 x 8 mm, base redondeada a cuneada, \u00e1pice agudo, margen algo engrosada y revoluta, distalmente crenada-serrulada; nervadura ligeramente impresa por la haz, prominente por el env\u00e9s. Flores con c\u00e1liz lobulado, l\u00f3bulos agudos a acuminados; corola urceolada, de unos 6 x 6 mm, blanca, rosada a rojiza; 10 estambres, filamentos glabros, cerca de 2 mm de longitud. Fruto una baya subglobosa, glabra, azul oscura cuando est\u00e1 madura (Luteyn y Pedraza-Pe\u00f1alosa 2012).",
+        "img_main": "http://sweetgum.nybg.org/images3/1861/377/02604819.jpg",
+        "img_thumbnail": "http://sweetgum.nybg.org/images3/1861/377/02604819.jpg",
+        "reproduction": "Pernettya hirta se ha encontrado floreciendo entre los meses de agosto a enero y fructificando entre los meses de agosto a abril (Luteyn y Pedraza-Pe\u00f1alosa 2012).",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de la Cordillera Oriental en el departamento de Cundinamarca, alrededores de la sabana de Bogot\u00e1 y de una colecci\u00f3n proveniente del departamento de Boyac\u00e1 (sitio p\u00e1ramo La Rusia), entre 3.150-4.020 msnm (Luteyn et al. 1995, Luteyn 1999, Pedraza Pe\u00f1alosa et al. 2004, Bernal et al. 2015). Es probable que la especie tenga una distribuci\u00f3n m\u00e1s amplia dado que existe h\u00e1bitat adecuado entre los sitios de colecta actuales localizados en el departamento de Cundinamarca.",
+        "abstract": "Pertenece a la familia Ericaceae. Es un arbusto o subarbusto end\u00e9mico de Colombia. Se encuentra en los p\u00e1ramos y subp\u00e1ramos en la Cordillera Oriental. Se ha observado que crece entre musgos y otra vegetaci\u00f3n baja sobre suelos h\u00famedos protegidos por rocas o en depresiones.",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Ericaceae",
+        "genus": "Pernettya",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "5b59d617f0d3bfe030572f9f",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Plutarchia guascensis",
+        "name_common": "Uvito de Guasca",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Uvito de Guasca"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Chorotas"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Coronilla"
+            }
+        ],
+        "general_desc": "Arbusto terrestre, 0,6-2 mt de altura. Tallo erecto, glabro o lanoso. Hojas en posici\u00f3n alterna, con peciolo 3-8 mm de largo, glabro o pub\u00e9rulo; lamina foliar ovada o eliptica, 13-30 x 9-16 mm, margen entera, base cordada, \u00e1pice obtuso o redondeado, cori\u00e1cea, nervadura acr\u00f3doma, haz y env\u00e9s verde rojizo, puberulenta; Inflorescencia axilar, 15-24 mm de largo x 19-22 mm de di\u00e1metro, lanosa o pubescente; br\u00e1cteas florales obovadas, 10-20 mm de largo, \u00e1pice redondeado o truncado, rojas, pilosas y en el borde ciliadas; Flores con pedicelo de 4-9 mm de largo, pubescente o piloso; bract\u00e9ola 1, ovada, 0,1 cm de largo, \u00e1pice redondo o agudo, caf\u00e9; hipanto tubular o campanulado, de 2-3 mm de largo, verde o rojo, pubescente; s\u00e9palos 5, deltoides, de 1 mm de ancho, \u00e1pice agudo, verdes o rojos marron; corola tubular o urceolado, de 10-15 x 3-6 mm, roja, pilosa; p\u00e9talos 5, deltados, de 1-4 mm de largo, \u00e1pice agudo o acuminado, rojos, pilosos; estambres 8-10, 11 mm de largo, epip\u00e9talos, diplostemonos, insertos, did\u00ednamos; filamentos libres, de 2-4 mm de largo, pubescente; anteras basifijas, de 8-12 mm de largo; tecas con dehiscencia poricidal; tubulos 2, 5-8 mm de largo; ovario \u00ednfero, con 5 carpelos, placentaci\u00f3n axilar; estilo 10-15 mm de largo, terminal, pub\u00e9rulo; estigma discoide. Baya de 6-8 mm de largo, 6 mm de di\u00e1metro. Semillas abundantes (Abril Ram\u00edrez, 2010).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/171818032/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/171818032/original.jpeg",
+        "reproduction": "Presenta un patr\u00f3n de floraci\u00f3n continuo y constituye un recurso importante para varias especies de colibr\u00edes (Parada Quintero et al. 2012)",
+        "distribution": "Plutarchia guascensis se encuentra en el l\u00edmite superior del bosque altoandino y en p\u00e1ramos de la cordillera Oriental, en los departamentos de Boyac\u00e1, Cundinamarca y Santander, en un rango altitudinal entre 2.500 y 3.900 metros (Bernal et al. 2019).",
+        "abstract": "El uvito, agr\u00e1z o coronilla (Plutarchia guascencis) es una especie de eric\u00e1cea cuyo fruto es comestible. Se considera que crece en unas 7 localidades de la Cordillera Oriental, algunos de estos p\u00e1ramos con procesos de deterioro, por lo cual se categoriza como Casi Amenazada (NT). Debe crecer dentro del PNN Chingaza y probablemente el SFF Guanent\u00e1 Alto R\u00edo Fonce, sus poblaciones m\u00e1s concentradas se encuentran en los alrededores de Guasca (Abril Ram\u00edrez, 2010). Arbusto ramificado de 1-2 m de altura, ramas teretes, ramas peque\u00f1as m\u00e1s o menos estriadas amarillo-moradas. Hojas de 18-32 mm de largo, 13-20 mm de ancho, densamente agrupadas al final de las ramas y ramitas; pec\u00edolo corto, de 2-3 mm de largo, grueso, rugoso, escasamente piloso; l\u00e1mina muy ovada, cori\u00e1cea, con peque\u00f1as escamas moteadas de color marr\u00f3n, completamente plana o ligeramente revoluta, base obtuso cordada, \u00e1pice deltoideo, obtuso o redondeado; nervaduras de 5-7, por el haz ligeramente manifiestas, por el env\u00e9s redondeadas y prominentes. Racimos de 3-6 flores, de raquis corto a nulo, axilares a terminales. Br\u00e1cteas florales cori\u00e1ceas, coloridas, glabras, ovado-obtusas, de 9-11 mm de longitud, involucradas. Pedicelo grueso de 4-9 mm de largo, 2 br\u00e1cteas basales, peque\u00f1as, y lineares. C\u00e1liz campanulado de 5 mm de longitud, 5-dentado, dientes erectos de 1 mm de longitud, con pedicelo casi glabro de color rojo.  Corola membranosa a gruesa, cil\u00edndrica, pubescente, p\u00farpura, \u00e1pice amarilloso, 5-dentada, dientes de 1-1.5 mm de longitud, triangulares y recurvos, base y \u00e1pice un poco angostos. Estambres 10, no sobresalen de la corola, alternadamente desiguales. Anteras de 10 mm y 12 mm de largo; l\u00f3culos de 2.5 y 3 mm de longitud, t\u00fabulo libre de 8-9 mm, dehiscencia apical por un poro alargado de 3 mm (Cuatrecasas 1933).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Ericaceae",
+        "genus": "Plutarchia",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "5b5b2b95f0d3bfe03057413a",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Epidendrum magnibracteum",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://images.phylopic.org/images/bb459b30-2370-4b7f-a1f9-f0d836aa35d1/raster/534x570.png",
+        "img_thumbnail": "https://images.phylopic.org/images/bb459b30-2370-4b7f-a1f9-f0d836aa35d1/raster/534x570.png",
+        "reproduction": "",
+        "distribution": "Epidendrum magnibracteum se encuentra en el departamento de Cundinamarca, donde ha sido registrada cerca de la ciudad de Bogot\u00e1 D. C., en un rango altitudinal entre 2.700 y 3.300 metros.",
+        "abstract": "Hierba terrestre, con tallo tipo ca\u00f1a hasta de 2 m de altura, erecto, cubierto por las vainas de las hojas. Hojas simples, alternas, agrupadas en el \u00e1pice del tallo; laminas cori\u00e1ceas, el\u00edpticas a lanceoladas, hasta de 20 cm de longitud y 5 cm de ancho, de color verde brillante; vainas rugosas y estriadas en la superficie exterior. Inflorescencias en racimos terminales, erectas, hasta de 30 cm de longitud; br\u00e1cteas florales vistosas, de color verde, hasta de 4 cm de longitud, algunas m\u00e1s largas que las flores; flores hasta 30 por inflorescencia, con s\u00e9palos, p\u00e9talos, labelo y columna carnosos, gruesos, de color verde y morado a gris; labelo con forma de coraz\u00f3n, unido a la columna; 4 polinios de color anaranjado. Frutos en c\u00e1psulas, elipsoides, color verde, con vestigios florales persistentes (H\u00e1gsater 2015).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Equisetopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Epidendrum",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "5b5b3471f0d3bfe0305743a2",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Lepanthes oreibates",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://herbario.jbb.gov.co/images/herImages/photos/JBB00369.jpg",
+        "img_thumbnail": "https://herbario.jbb.gov.co/images/herImages/photos/JBB00369.jpg",
+        "reproduction": "",
+        "distribution": "Lepanthes oreibates es conocida de unos pocos espec\u00edmenes colectados en zonas de bosque altoandino y subp\u00e1ramo, en el departamento de Cundinamarca, en un rango altitudinal entre 2.900 y 3.200 metros.",
+        "abstract": "Hierba ep\u00edfita de tama\u00f1o peque\u00f1o, con tallos de unos 15 cm de longitud, delgados, erectos, envueltos por vainas tubulares. Hojas simples, una por cada tallo, ubicadas en el \u00e1pice de estos; l\u00e1minas cori\u00e1ceas, el\u00edpticas, de unos 6 cm de longitud por 2 cm de ancho, el \u00e1pice acuminado. Inflorescencias en racimos, de unos 10 cm, saliendo de la base de las hojas; flores peque\u00f1as, de menos de 1 cm, con s\u00e9palos y p\u00e9talos membranosos de color amarillo y rojizos, labelo morado.\n\nEsp\u00e9cimen de referencia: Cundinamarca, Alto de Guti\u00e9rrez, 2.960 m, colectada en 1987, C. Luer 14227 (MO 5122303).",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Lepanthes",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "5b5b42a0f0d3bfe0305746b7",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Pleurothallis killipii",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/122102347/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/122102347/original.jpg",
+        "reproduction": "",
+        "distribution": "Pleurothallis killipii es conocida de unos pocos espec\u00edmenes colectados en zonas de bosque altoandino y p\u00e1ramo, ubicadas hacia las afueras de la ciudad de Bogot\u00e1 D. C. y en municipios vecinos a esta, en el departamento de Cundinamarca, en un rango altitudinal entre 2.900 y 3.300 metros.",
+        "abstract": "Hierba ep\u00edfita o terrestre hasta de 30 cm de longitud, con tallos cortos o rizomatosos y tallos a\u00e9reos delgados, envueltos en la parte inferior por vainas membranosas oscuras. Hojas una sola por cada tallo, con l\u00e1minas cori\u00e1ceas, lisas, el \u00e1pice acuminado y la base cordada. Inflorescencias terminales con una o dos flores, saliendo cerca a la base de la hoja sobre el lado superior; flores peque\u00f1as, pediceladas, con br\u00e1cteas oscuras en la base del pedicelo; s\u00e9palos de unos 2 cm de longitud, membranosos, color verde y rojizos hacia la base, p\u00e9talos y labelo rojizos a granate, columna color verde.\n\nEspec\u00edmenes de referencia: Cundinamarca, Boquer\u00f3n de Chipaque, 3.100 m, 19 de agosto de 1962, H. Schmidt 115 (COL 91193); La Calera, 2.900 m, 20 de abril de 2013, G. Reina 1619 (CUVC 54629); Guasca, Los Gaques, P\u00e1ramo de Guasca, 3.250 m, 12 de marzo de 1939, E. P. Killip 34061 (US 1770925).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Equisetopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Pleurothallis",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "5b5b76dff0d3bfe030574b98",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Aragoa perez-arbelaeziana",
+        "name_common": "Pino santo",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Pino santo"
+            }
+        ],
+        "general_desc": "",
+        "img_main": "https://medialib.naturalis.nl/file/id/U.1721389/format/large",
+        "img_thumbnail": "https://medialib.naturalis.nl/file/id/U.1721389/format/large",
+        "reproduction": "",
+        "distribution": "Aragoa perez-arbelaeziana se encuentra en el complejo de p\u00e1ramo Cruz Verde \u2013 Sumapaz, departamento de Cundinamarca, en un rango altitudinal entre 3.200 y 3.800 metros.",
+        "abstract": "Arbusto o \u00e1rbol peque\u00f1o de hasta 6 m de alto. Follaje verde-azulado (glauco), muy ramoso en las partes media y superior, con aspecto de con\u00edfera, con copas parciales de las ramas principales piramidales. Indumento lanoso en las ramas j\u00f3venes. Hojas simples, alternas, imbricadas, adpresas, dispuestas en espiral, de unos 2.5 mm de longitud por 1 mm de ancho, color verde azulosas o blanquecinas. Flores p\u00e9ndulas, numerosas en la zona subterminal de las ramas j\u00f3venes, solitarias o menos frecuentemente en pares en la axila, con 5 s\u00e9palos, color verde; corola con 4 l\u00f3bulos, color amarillo. Fruto una c\u00e1psula, ovoide, color caf\u00e9 (Fern\u00e1ndez-Alonso 1995).",
+        "phylum": "Magnoliophyta",
+        "classHierarchy": "Equisetopsida",
+        "order": "Lamiales",
+        "family": "Plantaginaceae",
+        "genus": "Aragoa",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "5c6b2ae2d76e3b71032c8c0e",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Coeligena prunellei",
+        "name_common": "Black Inca",
+        "names": [
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Black Inca"
+            },
+            {
+                "name": "Blauschulter-Andenkolibri"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Inca Negro"
+            },
+            {
+                "language": "Italian",
+                "name": "Inca nero"
+            },
+            {
+                "name": "Mohrenmusketier"
+            },
+            {
+                "language": "Danish",
+                "name": "Sort Inka"
+            },
+            {
+                "language": "Norwegian",
+                "name": "Svartinka"
+            },
+            {
+                "name": "Zwarte Incakolibrie"
+            },
+            {
+                "language": "Catalan; Valencian",
+                "name": "colibr\u00ed inca negre"
+            },
+            {
+                "language": "Swedish",
+                "name": "svart inkakolibri"
+            },
+            {
+                "language": "French",
+                "name": "Inca noir"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Pr\u00edncipe De Arcabuco"
+            }
+        ],
+        "general_desc": "Es un organismo eucariota y multicelular, de las pocas especies de colibr\u00edes cuyo plumaje en su mayor\u00eda es negro, presenta un parche en la gorguera de color azul iridiscente, al igual que en sus hombros, a los lados del pecho sobresale un parche blanco, su dorso es de un tono verde oliva metalizado que llega hasta la rabadilla del ave. En su nuca, manto y plumas supracaudales se observa un tono violeta y en algunas plumas de la corona y occipucio tambi\u00e9n es visible un tono azul iridiscente. Tiene un punto postocular de color blanco en proximidad de ambos ojos, las plumas infracaudales en ambos sexos son de color negro con borde blanco, las patas son de color rosado con u\u00f1as negras, la hembra presenta el mismo patr\u00f3n de colores pero en un tono m\u00e1s opaco y los juveniles son similares a los adultos pero con una longitud del pico m\u00e1s corta. En promedio su longitud es de 10,7 cm y su peso es de 7 g (Ayerbe-Qui\u00f1ones, 2015).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/109336280/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/109336280/original.jpeg",
+        "reproduction": "El periodo de reproducci\u00f3n oscila entre Junio y febrero, como todos los colibr\u00edes la hembra es el \u00fanico parental que se encarga de la incubaci\u00f3n y la crianza de los polluelos, que en sus primeras semanas de vida, dependen de los cuidados proporcionados por ella. La hembra construye el nido en el sotobosque de los robledales con trozos de telas de ara\u00f1a, l\u00edquenes  y musgo, la nidada en promedio consta de dos huevos y hasta la fecha no hay reportes del periodo de incubaci\u00f3n en esta especie (Macana-Garc\u00eda et al. 2012).",
+        "distribution": "Esta especie se encuentra a partir de los 1000 y hasta los 2840msnm (Schuchmann et al., 1999), (\u00c1lvarez, Uma\u00f1a y Delgado, 2000).Se distribuye en la margen occidental ubicada sobre la cordillera Oriental, (Universidad Militar Nueva Granada, 2017)  desde el suroriente de Santander (Vilor\u00edn, Guanenta Alto) y occidente de Boyac\u00e1 (Tog\u00fc\u00ed) hasta el occidente de Cundinamarca (Facatativ\u00e1, Guaduas, La Vega, Noroccidente de Bogot\u00e1). (L\u00f3pez-Lan\u00fas en Renfijo et al., 2002).",
+        "abstract": "Su plumaje en la mayor\u00eda es de color negro, con un parche de color azul iridiscente en la gorguera y en los hombros, a los lados de los hombros sobresale un parche de color blanco, sus patas son rosadas con u\u00f1as negras (Ayerbe-Qui\u00f1ones 2015). End\u00e9mica de Colombia, esta especie habita a partir de los 1000 y hasta los 2840 msnm (Schuchmann et al., 1999), (\u00c1lvarez, Uma\u00f1a, y Delgado,  2000) en los bosques andinos h\u00famedos de los departamentos de Boyac\u00e1, Cundinamarca y Santander. Forrajea en la zona baja del bosque para alimentarse del n\u00e9ctar de flores como  Aphelandra, Palicourea, Psammisia,Thibaudiaspp; al igual que la mayor\u00eda de los colibr\u00edes, los machos son altamente territoriales en las zonas de alimentaci\u00f3n. Actualmente la especie se encuentra catalogada como amenazada a nivel nacional e internacional como vulnerable(Renfijo et al. 2002).",
+        "phylum": "Chordata",
+        "classHierarchy": "Aves",
+        "order": "Apodiformes",
+        "family": "Trochilidae",
+        "genus": "Coeligena",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "5ce702008fe61bf73db10bdb",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Bolborhynchus ferrugineifrons",
+        "name_common": "Parrocchetto fronterossiccia",
+        "names": [
+            {
+                "language": "Italian",
+                "name": "Parrocchetto fronterossiccia"
+            },
+            {
+                "name": "Rotstirnsittich"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Rufous-fronted Parakeet"
+            },
+            {
+                "language": "Norwegian",
+                "name": "Rustgrimeparakitt"
+            },
+            {
+                "language": "Danish",
+                "name": "Rustpandet Parakit"
+            },
+            {
+                "name": "Tolimaparkiet"
+            },
+            {
+                "name": "Toui \u00e0 front roux"
+            },
+            {
+                "language": "Estonian",
+                "name": "kolumbia m\u00e4gipapagoi"
+            },
+            {
+                "name": "papag\u00e1jik hrdzavo\u010del\u00fd"
+            },
+            {
+                "language": "Swedish",
+                "name": "rostpannad parakit"
+            },
+            {
+                "language": "French",
+                "name": "Toui \u00e0 front roux"
+            },
+            {
+                "language": "Danish",
+                "name": "Tolima-Parkiet"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Periquito Frentirrufo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Catita Frentirrufa"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Periquito de los Nevados"
+            }
+        ],
+        "general_desc": "Bolborhynchus ferrugineifrons, m\u00e1s conocido como Periquito Frentirrufo, se encuentra en el dominio Eukarya y se clasifica como perteneciente al reino Animalia lo que significa que este posee c\u00e9lulas eucariotas animales las cuales se caracterizan por poseer un n\u00facleo definido, citoplasma, membrana plasm\u00e1tica, citoesqueleto y dem\u00e1s organelos caracter\u00edsticos de los eucariontes, adem\u00e1s tiene centriolos y lisosomas los cuales las diferencia de las otras c\u00e9lulas eucariotas.\nEl Periquito Frentirrufo tiene un tama\u00f1o entre 18 y 20 cm, posee un pico oscuro, grueso y abultado y a su alrededor una banda color rufo; es de color verde claro y opaco en la secci\u00f3n de las alas, amarillo oliva en la garganta y pecho, la cola es corta con coloraci\u00f3n verde azulado; no presenta dimorfismo sexual (Hilty, Brown, & Brown, 1986)",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/108177573/large.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/108177573/large.jpg",
+        "reproduction": "Su reproducci\u00f3n es sexual por la presencia de dos progenitores (macho y hembra).  La c\u00f3pula del periquito frentirrufo se realiza \u00fanicamente durante el periodo entre abril y junio entre parejas que formaban partes de grupos de forrajeo.  Durante la c\u00f3pula las aves emit\u00edan un sonido caracter\u00edstico parecido a un gorgojeo suave (Espinosa et al., 2001, pp. 6-7). Se reportan nidos en cavidades de acantilados (Rodr\u00edguez & Hern\u00e1ndez-Camacho, 2002)\n\nLa reproducci\u00f3n es considerada estacionaria ya que en el primer semestre del a\u00f1o se presenta la c\u00f3pula y anidaci\u00f3n y en el segundo semestre la cr\u00eda de los peque\u00f1os. (Espinosa et al., 2001, p.7)",
+        "distribution": "Nevado del Tolima",
+        "abstract": "El periquito frentirrufo es una especie end\u00e9mica colombiana la cual se encuentra en un estado de vulnerabilidad. Tiene un tama\u00f1o entre 18-20 cm; pico grueso y abultado y a su alrededor una banda de color rufo; es de color verde claro y opaco en las alas, color amarillo oliva en el pecho y garganta, su cola es corta de coloraci\u00f3n verde azulada y no presenta dimorfismo sexual (Hilty, Brown, & Brown, 1986).\nSu h\u00e1bitat abarca p\u00e1ramos zonas sub-p\u00e1ramos y bosques altoandinos, encontrados principalmente en el Parque Nacional Natural Los Nevados en la Cordillera Central en los departamentos de Tolima, Cauca, Caldas, Risaralda y Quind\u00edo entre los 3000 y 3800 msnm. \nSu dieta es compuesta por semillas,frutos y flores entre los cuales se encuentran semillas de pasto (Anthoxantum odoratum), frutos de Cadillo (Acaena elongata), y flores de Frailej\u00f3n (Espeletia hartwegiana). Su forrajeo lo realiza en el suelo,entre arbustos y encima de la l\u00ednea de los \u00e1rboles (Espinosa et al., 2001, p. 5).\nEsta ave se encuentra amenazada debido al deterioro de los p\u00e1ramos causado por los cultivos de papa, potreros y quemas en el lugar. (Graves & Giraldo, 1987)",
+        "phylum": "Chordata",
+        "classHierarchy": "Aves",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "genus": "Bolborhynchus",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "5e3b3b0d7312d26d51df580e",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Cebus versicolor",
+        "name_common": "Mono maicero cariblanco colombiano",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Mono maicero cariblanco colombiano"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Varied White-fronted Capuchin"
+            }
+        ],
+        "general_desc": "Anteriormente se cre\u00eda que las poblaciones de Cebus leucocephalus, C. malitiosus y C. versicolor eran subespecies de C. albifrons. Sin embargo, a partir de estudios realizados por Boubli et al. (2012) y Ruiz-Garc\u00eda et al. (2010), C. versicolor se clasifico como una especie diferente.. Se caracteriza por tener el pelaje de colores p\u00e1lidos, tonos rojizos en los antebrazos y espalda y color caf\u00e9 en el resto del cuerpo (Fragaszy et al., 2004)",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/113379023/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/113379023/original.jpeg",
+        "reproduction": "",
+        "distribution": "Cebus versicolor versicolor se distribuye en el centro-norte del pa\u00eds, en medio de la Cuenca del R\u00edo Magdalena; por otro lado, Cebus versicolor cesarae. Se ha registrado en el Magdalena y Cesar (Moreno et al., 2017).",
+        "abstract": "Especie end\u00e9mica de Colombia, habita bosques h\u00famedos de tierras bajas y pantanos en el valle del r\u00edo Magdalena, sin embargo, ha sido registrado en el Cesar (Moreno et al., 2007). Se caracteriza por tener el pelaje de colores p\u00e1lidos, tonos rojizos en los antebrazos y espalda y color caf\u00e9 en el resto del cuerpo (Fragaszy et al., 2004). Este primate basa su dieta en artr\u00f3podos y frutos (Rond\u00f3n et al., 2017).",
+        "phylum": "Chordata",
+        "classHierarchy": "Mammalia",
+        "order": "Primates",
+        "family": "Cebidae",
+        "genus": "Cebus",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "5fd91f79783b5b717668554e",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Cedrela odorata",
+        "name_common": "Cedro colorado",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cedro colorado"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cedro cebollo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cedrela"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cedro Rojo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cedro rosado"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cedro amargo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Cedro de castilla"
+            }
+        ],
+        "general_desc": "Es un \u00e1rbol que alcanza hasta 35 m de altura, tallo con corteza externa fisurada. La inflorescencia terminal es una pan\u00edcula con flores perfectamente blancas. Las hojas son alternas, paripinnadas, sin est\u00edpulas, agrupadas al final de las ramas con 5 a 11 foliolos opuestos, lanceolados a ovalados, con acume apical, escasamente agudo, con base dispareja y oblicua, bordes enteros y glabros. El fruto es una c\u00e1psula el\u00edptica-oblonga de color marr\u00f3n oscuro. Las semillas son aladas (Corporaci\u00f3n Aut\u00f3noma Regional de Cundinamarca CAR, 2019; L\u00f3pez et al., 2014).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/173532613/large.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/173532613/large.jpg",
+        "reproduction": "",
+        "distribution": "Esta especie de cedro se encuentra a lo largo y ancho de todo el pa\u00eds, en los departamentos de Amazonas, Antioquia, Bol\u00edvar, Caldas, Caquet\u00e1, Choc\u00f3, Cundinamarca, Huila, Magdalena, Meta, Nari\u00f1o, Quind\u00edo, Risaralda, San Andr\u00e9s, Providencia y Santa Catalina, Santander, Tolima, Valle entre los 10 y 2700 metros de elevaci\u00f3n. Presente en todo el subcontinente suramericano entre M\u00e9xico y el norte de Argentina (Bernal, Gradstein & Celis, 2019).",
+        "abstract": "\u00c1rbol maderable presente en bosques h\u00famedos y secos a lo largo de todo el pa\u00eds y el subcontinente americano entre los 10 y 2700 metros de elevaci\u00f3n (Bernal,  Gradstein & Celis, 2019). Adem\u00e1s de su fina madera apta para la carpinter\u00eda y ebanister\u00eda, cuenta con diversos usos medicinales y ambientales (L\u00f3pez et al., 2016). Debido a la fragmentaci\u00f3n del bosque montano que habita, esta especie se encuentra en peligro de extinci\u00f3n (VU), viendo sus poblaciones disminuir desde hace 200 a\u00f1os. (Corporaci\u00f3n Aut\u00f3noma Regional de Cundinamarca CAR, 2019).",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Sapindales",
+        "family": "Meliaceae",
+        "genus": "Cedrela",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "5ff0b5a0a31867213a68a8ff",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Handroanthus chrysanthus",
+        "name_common": "Flor amarillo",
+        "names": [
+            {
+                "name": "Flor amarillo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "guayac\u00e1n"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "roble amarillo"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "yellow poui"
+            }
+        ],
+        "general_desc": "\u00c1rbol hasta de 25 m de alto y 50 cm de DAP(diametro a la altura del pecho), corteza escamosa, madera dura y pesada; ramas sub tetragonales, glabrescentes. Hojas palmadas foli\u00f3ladas ; pec\u00edolo 5-23 cm de largo, glabrescente; peci\u00f3lulo terminal 1.2-9 cm de largo, peci\u00f3lulos intermedios 0.7-6.7 cm de largo, peci\u00f3lulos laterales 0.3-2.1 cm de largo; fol\u00edolos el\u00edpticos, lepidotos. Inflorescencia, pan\u00edcula terminal contra\u00edda, flores ligeramente arom\u00e1ticas. Corola 3-8 cm de largo, 0.6-2.2 cm de ancho en la boca, tubular-infundibuliforme, amarilla con dibujos rojizos en la garganta. Fruto una c\u00e1psula, hasta 4 x 2 cm, delgada e irregularmente estriada. Semillas 4.4-0.9 x 1.4-3.3 cm, con alas (Gentry, 2009).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/176371080/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/176371080/original.jpeg",
+        "reproduction": "",
+        "distribution": "Esta planta se distribuye desde M\u00e9xico a Per\u00fa y en Trinidad. En Colombia se encuentra en elevaciones entre los 5 - 2300 m en los departamentos de Amazonas, Antioquia, Atl\u00e1ntico, Bol\u00edvar, Boyac\u00e1, Caldas, Caquet\u00e1, Cesar, Choc\u00f3, C\u00f3rdoba, Cundinamarca, Magdalena, Meta, Quind\u00edo, Santander, Tolima y Valle (Bernal, Gradstein & Celis (eds.) 2019).",
+        "abstract": "Planta nativa de Colombia de flores blancas o amarillentas y lianas robustas. Sus tallos y ra\u00edces se utilizan para la frigidez y la corteza macerada y mezclada con aguardiente sirve como reconstituyente y para resfriados. El tejido floem\u00e1tico es com\u00fan en la preparaci\u00f3n de  licores amaz\u00f3nicos, afrodisiacos (Mej\u00eda & Rengifo, 2000)",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Lamiales",
+        "family": "Bignoniaceae",
+        "genus": "Handroanthus",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": ""
+    },
+    {
+        "_id": "5ff0e0d24b1405da3de8b872",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Vanilla pompona",
+        "name_common": "Guadeloupe vanilla",
+        "names": [
+            {
+                "language": "Ingl\u00e9s",
+                "name": "Guadeloupe vanilla"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Vainilla grande"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "West Indian vanilla"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "West Indian vanilla"
+            },
+            {
+                "language": "Ingl\u00e9s",
+                "name": "pompona vanilla"
+            },
+            {
+                "language": "Swedish",
+                "name": "pomponavanilj"
+            },
+            {
+                "name": "vanillon"
+            },
+            {
+                "name": "vanillon des Antilles"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Vainilla gruesa"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Vainilla platanillo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Vainilla cimarrona"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Platanillo"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Bania"
+            },
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Platano"
+            }
+        ],
+        "general_desc": "Enredadera maciza, poco ramificada y frondosa, que alcanza hasta 16 m de altura. Tallos terete, lisos, punteados de verde p\u00e1lido 10-24 mm de grosor. Ra\u00edces a\u00e9reas, libres, gruesas; ra\u00edces terrestres, 4 mm de grosor.  Inflorescencia, racimo de 7-20 flores, de hasta 200 mm de largo. Apice, unos 8 x 10 mm. Flores sucesivas, 1-2 abiertas a la vez,  tubulares o con segmentos de expansi\u00f3n,  amarillo p\u00e1lido y amarillo anaranjado, muy vistoso; fragancia muy fuerte, picante, como la menta. Fruto grueso, verde, negruzco cuando maduro y fuertemente arom\u00e1tico (Soto-Arenas & Dressler, 2010).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/70848036/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/70848036/original.jpg",
+        "reproduction": "",
+        "distribution": "Esta planta se distribuye desde M\u00e9xico a Costa Rica y en Colombia y Ecuador. En Colombia se encuentra en elevaciones entre 184 - 1700 m en los departamentos de Cundinamarca, Magdalena, Sucre y Tolima (Bernal, Gradstein & Celis (eds.) 2019)",
+        "abstract": "Enredadera nativa de Colombia que alcanza hasta 16 m de altura con flores amarillas y anaranjadas y fragancia fuerte. Habita en varios tipos de bosques h\u00famedos tropicales de tierras bajas y en sabanas o en bosques c\u00e1lidos de pinos y robles,  tambi\u00e9n en zonas inundadas (Soto-Arenas & Dressle , 2010). Se utiliza  para perfumar bebidas alcoh\u00f3licas y tambi\u00e9n como ornamento (Herrera, Hern\u00e1ndez, Vega & Wegier, 2020).",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Vanilla",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": ""
+    },
+    {
+        "_id": "61c4a79bfb2a98952bba7f0f",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Bromelia nidus-puellae",
+        "name_common": "Pinuella",
+        "names": [
+            {
+                "language": "Espa\u00f1ol",
+                "name": "Pinuella"
+            }
+        ],
+        "general_desc": "Es una hierba terrestre, cuyas hojas se disponen en forma de roseta por tener los entrenudos muy cortos, y puede llegar a medir hasta 1 m de altura cuando est\u00e1 florecida (Mez 1896, Smith 1957, Smith & Downs 1979, Andr\u00e9 1983).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/13924071/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/13924071/original.jpg",
+        "reproduction": "",
+        "distribution": "\"Esta especie es end\u00e9mica de Colombia, donde se conoce s\u00f3lo de una colecci\u00f3n proveniente del departamento de Cundinamarca, alrededor de 300 msnm (Smith 1957, Smith & Downs 1979, Andr\u00e9 1983, Betancur & Garc\u00eda 2006).\n\nSmith 1957 y Smith & Downs 1979 reportan un registro en el departamento del Valle del Cauca proveniente de cultivo, sin localidad exacta de procedencia.\"",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba terrestre end\u00e9mica de Colombia. Se encuentra en los bosques h\u00famedos y secos tropicales.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Bromelia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "61c4a8c0b718af212ce311f9",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Bromelia trianae",
+        "name_common": "pi\u00f1uela",
+        "names": [
+            {
+                "name": "pi\u00f1uela"
+            }
+        ],
+        "general_desc": "Es una hierba terrestre, cuyas hojas se disponen en forma de roseta por tener los entrenudos muy cortos, y puede llegar a medir hasta 1,5 m de altura cuando est\u00e1 florecida (Smith 1957, Smith & Downs 1979, Betancur & Garc\u00eda 2006).",
+        "img_main": "https://images.phylopic.org/images/cfd8e4fe-e3a4-49a0-83a1-dde624a2362e/raster/493x1024.png",
+        "img_thumbnail": "https://images.phylopic.org/images/cfd8e4fe-e3a4-49a0-83a1-dde624a2362e/raster/493x1024.png",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia, donde se conoce de la vertiente occidental de la cordillera Oriental en el \u00e1rea lim\u00edtrofe entre los municipios de Iconozo (departamento del Tolima) y Pandi (departamento de Cundinamarca), entre 680-900 msnm (Smith 1957, Smith & Downs 1979, Betancur & Garc\u00eda 2006, Betancur 2016).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba terrestre end\u00e9mica de Colombia. Se encuentra creciendo a orillas de r\u00edos y quebradas, entre rocas, en los bosques secos tropicales en la cordillera Oriental.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Bromelia",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "61c4bdad8765896c2eea4c5e",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Cavendishia dendrophila",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://statics.sibcolombia.net/sib-resources/images/catalogo/miniatura/svg/t-plantas.svg",
+        "img_thumbnail": "https://statics.sibcolombia.net/sib-resources/images/catalogo/miniatura/svg/t-plantas.svg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de los departamentos de Cundinamarca, municipio de Jun\u00edn y alrededores de las veredas La Aldea/La Cumbre, y Meta en el Parque Nacional Natural Chingaza, entre 2.200-2.800 msnm (Luteyn 1983, Bernal et al. 2015, ICN, 2018).",
+        "abstract": "Pertenece a la familia Ericaceae. Es un arbusto ep\u00edfito end\u00e9mico de Colombia. Se encuentra en los bosques templados montanos en la Cordillera Oriental.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Ericaceae",
+        "genus": "Cavendishia",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "61c50fc603a444693fd01d88",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Greigia collina",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta hierba terrestre tiene un tallo corto bien desarrollado (Smith 1957, Smith & Downs 1979).",
+        "img_main": "https://herbariovaa.org/imglib/neotrop/misc/201407/index_1405687495_web.jpg",
+        "img_thumbnail": "https://herbariovaa.org/imglib/neotrop/misc/201407/index_1405687495_web.jpg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de la Cordillera Oriental en los departamentos de Boyac\u00e1 (municipios de Ci\u00e9naga, Duitama y Ramiriqu\u00ed), Cundinamarca (municipios de F\u00f3meque, Fusagasug\u00e1) y Santander (municipios de Charal\u00e1 y Encino), entre 1.650-3.250 msnm (Smith 1957, Smith & Downs 1979, Betancur 2000, Bernal et al. 2015).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba terrestre end\u00e9mica de Colombia que se encuentra en los bosques nublados o en las formaciones de subp\u00e1ramo donde se ha visto que puede ser una especie dominante. Tiene una distribuci\u00f3n restringida en la Cordillera Oriental del pa\u00eds.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Greigia",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "61c78d97586959511027d06e",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Pitcairnia guaritermae",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta hierba puede presentar h\u00e1bito terrestre o rup\u00edcola, no tiene un tallo bien desarrollado y alcanza hasta 60 cm de altura cuando est\u00e1 florecida (Smith 1957, Smith & Downs 1974).).",
+        "img_main": "http://www.kew.org/herbcatimg/63224.jpg",
+        "img_thumbnail": "http://www.kew.org/herbcatimg/63224.jpg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia, donde se conoce de la cordillera Oriental en los departamentos de Cundinamarca (municipios de Guti\u00e9rrez y Quetame) y Meta (municipio de Villavicencio), entre 450-2.100 msnm (Smith 1957, Smith & Downs 1974, Betancur & Garc\u00eda 2006, Betancur 2016, Giraldo-Ca\u00f1as 2017).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba end\u00e9mica de Colombia que puede presentar h\u00e1bito  terrestre o rup\u00edcola. Se encuentra en los bosques muy h\u00famedos tropicales y bosques muy h\u00famedos premontanos en la cordillera Oriental.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Pitcairnia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "61c85e4e81e6349c1eb28afb",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Pitcairnia petraea",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta hierba terrestre de aproximadamente 2 m de alto, habita en formaciones de bosque muy h\u00famedo montano bajo, entre matorrales, en taludes y bordes de camino de herradura, conformando densas agrupaciones (Smith & Downs 1974, Luteyn 1999, Betancur 2001, Betancur & Garc\u00eda 2006).",
+        "img_main": "https://s3.amazonaws.com/huhwebimages/FE63DE432C1147F/type/full/29249.jpg",
+        "img_thumbnail": "https://s3.amazonaws.com/huhwebimages/FE63DE432C1147F/type/full/29249.jpg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de los departamentos de Cundinamarca en la sabana de Bogot\u00e1 y Meta, municipio de San Juanito, entre 2.350-3.000 msnm (Smith & Downs 1974; Luteyn 1999; Betancur 2000, 2001; Betancur & Garc\u00eda 2006; Bernal et al. 2015).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba terrestre end\u00e9mica de Colombia que se distribuye de manera restringida en la cordillera Oriental. Se encuentra en el bosque muy h\u00famedo montano bajo y en bosques de robles. Se ha observado creciendo en sitios muy perturbados.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Pitcairnia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "61c86eecbfe0e15424ee6c9c",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Pleuridium lindigianum",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://sweetgum.nybg.org/images3/2232/829/01086126-03.jpg",
+        "img_thumbnail": "https://sweetgum.nybg.org/images3/2232/829/01086126-03.jpg",
+        "reproduction": "",
+        "distribution": "Pleuridium lindigianum es end\u00e9mica de Colombia, se conoce de reportes en Antioquia y Cundinamarca, entre los 1.700-3.950 msnm (Churchill & Linares 1995, Churchill et al. 2000, Aguirre 2008, en Bernal et al. 2016 presente en Boyac\u00e1, sin embargo, no se encontr\u00f3 informaci\u00f3n relacionada con alg\u00fan ejemplar o colecci\u00f3n).",
+        "abstract": "Pertenece a la familia Ditrichaceae. Es un musgo acroc\u00e1rpico end\u00e9mico de Colombia. Se encuentra creciendo sobre el suelo y rocas en formaciones de bosque h\u00famedo montano, bosque h\u00famedo montano bajo o bosque h\u00famedo subtropical.",
+        "phylum": "Bryophyta",
+        "classHierarchy": "Bryopsida",
+        "order": "Dicranales",
+        "family": "Ditrichaceae",
+        "genus": "Pleuridium",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "61c9f2c0bafece6d4dfd9d73",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Puya loca",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta hierba r\u00fapicola no tiene un tallo bien desarrollado, presenta una escasa longitud de los entrenudos y las hojas se hallan muy juntas entre s\u00ed presentando una forma arrosetada, puede llegar a medir entre 25 y 40 cm de altura cuando est\u00e1 florecida (Madri\u00f1\u00e1n 2015).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/105708751/original.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/105708751/original.jpg",
+        "reproduction": "Florece en la \u00e9poca de lluvias en sincron\u00eda con Puya nitida y Puya santosii (Madri\u00f1\u00e1n 2015), especies previamente reportadas para la regi\u00f3n de ocurrencia (Betancur 2000), entre los meses de noviembre y diciembre, sus semillas germinan en condiciones de luz (Pico 2016).",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de la Cordillera Oriental en los alrededores de la ciudad de Bogot\u00e1 D.C., sectores de Sumapaz y Usme, y del departamento de Cundinamarca, municipios de La Calera y Guasca, entre 3.339-3.550 msnm (Bernal et al. 2015, Madri\u00f1\u00e1n 2015, Pico 2016).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba rup\u00edcola end\u00e9mica de Colombia. Se encuentra en zonas abiertas expuestas al sol y al viento en la Cordillera Oriental. Sus flores son visitadas por colibr\u00edes que podr\u00edan ser potenciales polinizadores.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Puya",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "61cb4b85784592a87fc2aec5",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Sphagnum sumapazense",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://quod.lib.umich.edu/cgi/i/image/api/image/herb00ic:526381:MICH-B-526381/full/res:0/0/native.jpg",
+        "img_thumbnail": "https://quod.lib.umich.edu/cgi/i/image/api/image/herb00ic:526381:MICH-B-526381/full/res:0/0/native.jpg",
+        "reproduction": "",
+        "distribution": "Sphagnum sumapazense es end\u00e9mica de Colombia, se conoce de reportes en Cundinamarca y Meta, ambas en el Parque Nacional Natural Sumapaz entre los 3.500-3.650 msnm (Bernal et al. 2016).",
+        "abstract": "Pertenece a la familia Sphagnaceae. Es un musgo end\u00e9mico de Colombia. Se encuentra creciendo sobre suelo en formaciones de p\u00e1ramo o bosque h\u00famedo montano alto.",
+        "phylum": "Bryophyta",
+        "classHierarchy": "Sphagnopsida",
+        "order": "Sphagnales",
+        "family": "Sphagnaceae",
+        "genus": "Sphagnum",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "61cb6c1c98a8af8d0d0b78ca",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Themistoclesia rostrata",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "http://sweetgum.nybg.org/images3/1857/506/1583242.jpg",
+        "img_thumbnail": "http://sweetgum.nybg.org/images3/1857/506/1583242.jpg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de la Cordillera Oriental y norte de la Cordillera Central y Occidental, en los departamentos de Antioquia (municipio de Jard\u00edn), Risaralda (municipio de Santuario) y de varios sitios de colecta provenientes de Cundinamarca, alrededores de la Sabana de Bogot\u00e1, entre 2.100-3.100 msnm (Smith 1933, Id\u00e1rraga Piedrahita et al. 2011, Luteyn & Pedraza Pe\u00f1alosa 2012, Bernal et al. 2015).",
+        "abstract": "Pertenece a la familia Ericaceae. Es un arbusto ep\u00edfito end\u00e9mico de Colombia. Se encuentra en el bosque muy h\u00famedo montano bajo en los tres ramales andinos.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Magnoliopsida",
+        "order": "Ericales",
+        "family": "Ericaceae",
+        "genus": "Themistoclesia",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "61cb9b926d3afa21172c0cb5",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Tillandsia breviturneri",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta hierba ep\u00edfita puede llegar a medir entre 43 y 49 cm de altura cuando est\u00e1 florecida, no tiene un tallo bien desarrollado (Betancur et al. 7030).",
+        "img_main": "https://images.phylopic.org/images/cfd8e4fe-e3a4-49a0-83a1-dde624a2362e/raster/493x1024.png",
+        "img_thumbnail": "https://images.phylopic.org/images/cfd8e4fe-e3a4-49a0-83a1-dde624a2362e/raster/493x1024.png",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de la Cordillera Oriental en los departamentos de Boyac\u00e1 (municipio de R\u00e1quira), Cundinamarca (municipios de Subachoque y Tausa) y de la regi\u00f3n del Sumapaz, al sur de la sabana de Bogot\u00e1, entre 3.000-3.950 msnm (Garc\u00eda & Betancur 2002, Betancur & Garc\u00eda 2006, Bernal et al. 2015).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba ep\u00edfita end\u00e9mica de Colombia. Se encuentra creciendo solitaria o en densas agrupaciones en los bosques muy h\u00famedos y pluviales montanos en la Cordillera Oriental.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Tillandsia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "61cbb0b2995dd2e31d60d295",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Tillandsia pallescens",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta hierba ep\u00edfita no tiene un tallo aparente, puede medir entre 1.1 y 1.7 m de altura cuando est\u00e1 florecida, posee una escasa longitud de los entrenudos y las hojas se hallan muy juntas entre s\u00ed presentando una forma arrosetada (Betancur et al. 8887).",
+        "img_main": "https://images.phylopic.org/images/cfd8e4fe-e3a4-49a0-83a1-dde624a2362e/raster/493x1024.png",
+        "img_thumbnail": "https://images.phylopic.org/images/cfd8e4fe-e3a4-49a0-83a1-dde624a2362e/raster/493x1024.png",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce de la Cordillera Oriental en los departamentos de Arauca (municipio de Tame), Boyac\u00e1 (alrededores de Tunja) y Cundinamarca (municipio de Jun\u00edn), entre 2.950-3.100 msnm (Garc\u00eda & Betancur 2002, Alvarado Fajardo et al. 2013, Bernal et al. 2015).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba ep\u00edfita end\u00e9mica de Colombia. Se encuentra en los bosques muy h\u00famedos montanos en la Cordillera Oriental. Es una especie muy apetecida por el oso de anteojos.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Tillandsia",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "61cc9ce859ad04731eb160d0",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Tillandsia racinae",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Es una hierba rup\u00edcola, cuyas hojas se disponen en forma de roseta por tener los entrenudos muy cortos, y puede alcanzar hasta 1 m de altura cuando est\u00e1 florecida (Smith 1951, 1957; Smith & Downs 1977).",
+        "img_main": "https://herbariovaa.org/imglib/neotrop/misc/201501/image_1422224091_web.jpg",
+        "img_thumbnail": "https://herbariovaa.org/imglib/neotrop/misc/201501/image_1422224091_web.jpg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia, donde se conoce de la cordillera Oriental en los departamentos de Cundinamarca (municipios de La Palma, La Vega y Pandi) y Tolima (municipio de Icononzo), entre 900-1.150 msnm (Smith 1951, 1957; Smith & Downs 1977; Betancur & Garc\u00eda 2006; Betancur 2016).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba rup\u00edcola end\u00e9mica de Colombia. Se encuentra en bosque seco en transici\u00f3n entre los pisos tropical y premontano en la cordillera Oriental.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Tillandsia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "61ccb0c32b95bc532f88b687",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Tillandsia suescana",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta hierba ep\u00edfita no tiene un tallo aparente, posee una escasa longitud de los entrenudos y las hojas se hallan muy juntas entre s\u00ed presentando una forma arrosetada, puede llegar a medir entre 40 y 60 cm de altura cuando est\u00e1 florecida (Smith & Downs 1977, Rangel Ch. & Aguirre C. 1986, Betancur 2001, Avellaneda Cadena & Betancur 2007).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/104462237/original.jpeg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/104462237/original.jpeg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia donde se conoce \u00fanicamente de las formaciones rocosas de la Cordillera Oriental en el departamento de Cundinamarca, alrededores de la sabana de Bogot\u00e1, municipios de Ch\u00eda, Chocont\u00e1, Cogua, Sesquil\u00e9, Suesca y Tausa, entre 2.800-3.250 msnm (Smith & Downs 1977; Betancur 2000, 2001; Betancur & Garc\u00eda 2006; Avellaneda Cadena & Betancur 2007; Bernal et al. 2015).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba ep\u00edfita end\u00e9mica de Colombia. Se encuentra en el  bosque h\u00famedo montano y con transici\u00f3n a seco en la Cordillera Oriental. Se ha observado creciendo solitaria o en agrupaciones de pocos individuos en zonas expuestas, en escarpes, grietas y cornisas de las rocas.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Tillandsia",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "61ccba720e6e363632f52ece",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Vriesea ospinae",
+        "name_common": "",
+        "names": null,
+        "general_desc": "Esta hierba puede presentar habito terrestre, y crecer solitaria sobre rocas o formando peque\u00f1os grupos. Tiene un tallo corto bien desarrollado, y alcanza hasta 50 cm de altura cuando est\u00e1 florecida (Luther 1987, 1992; Betancur & Garc\u00eda 2006).",
+        "img_main": "https://inaturalist-open-data.s3.amazonaws.com/photos/123701928/large.jpg",
+        "img_thumbnail": "https://inaturalist-open-data.s3.amazonaws.com/photos/123701928/large.jpg",
+        "reproduction": "",
+        "distribution": "Esta especie es end\u00e9mica de Colombia se conoce de varios sitios de ocurrencia en la vertiente oriental de la cordillera Oriental, en la zona lim\u00edtrofe entre los departamentos de Boyac\u00e1, Casanare y Cundinamarca, entre 300-1.345 msnm (Luther 1987, 1992; Betancur & Garc\u00eda 2006; Betancur et al. 2007; Betancur 2016).",
+        "abstract": "Pertenece a la familia Bromeliaceae. Es una hierba end\u00e9mica de Colombia. Se encuentra creciendo solitario sobre rocas o formando peque\u00f1os grupos en bosques muy h\u00famedos y lluviosos en la cordillera Oriental.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Poales",
+        "family": "Bromeliaceae",
+        "genus": "Goudaea",
+        "habitats": "",
+        "statusmundial": "VU",
+        "statusnacional": "VU"
+    },
+    {
+        "_id": "61e5cd99182759fd3656a8dc",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Epidendrum ortizii",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://herbario.jbb.gov.co/images/herImages/photos/JBB19229.jpg",
+        "img_thumbnail": "https://herbario.jbb.gov.co/images/herImages/photos/JBB19229.jpg",
+        "reproduction": "",
+        "distribution": "La especie es end\u00e9mica de Colombia y est\u00e1 presente en tierras templadas a fr\u00edas de los Andes del departamento de Cundinamarca. La mayor parte de los registros se encuentran en la RFPN Cerros Orientales de Bogot\u00e1.",
+        "abstract": "",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Epidendrum",
+        "habitats": "",
+        "statusmundial": null,
+        "statusnacional": "EN"
+    },
+    {
+        "_id": "61e5ceb4182759fd3656ab23",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Epidendrum uribei",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "http://www.kew.org/herbcatimg/274521.jpg",
+        "img_thumbnail": "http://www.kew.org/herbcatimg/274521.jpg",
+        "reproduction": "",
+        "distribution": "La especie es end\u00e9mica de Colombia y est\u00e1 presente en tierras fr\u00edas de los Andes de Cundinamarca. Los registros se distribuyen en selvas altoandinas y andinas de la Sabana de Bogot\u00e1 y sus alrededores.",
+        "abstract": "Pertenece a la familia Orchidaceae. Es una hierba ep\u00edfita end\u00e9mica de Colombia. Se encuentra en bosques andinos secos del departamento de Cundinamarca. Se ha observado que las plantas pertenecientes a este g\u00e9nero en Colombia son polinizadas por mariposas.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Epidendrum",
+        "habitats": "",
+        "statusmundial": "CR",
+        "statusnacional": "CR"
+    },
+    {
+        "_id": "61e5d4c0182759fd3656ae83",
+        "exotic": false,
+        "invasive": false,
+        "name_scientific": "Oncidium decorum",
+        "name_common": "",
+        "names": null,
+        "general_desc": "",
+        "img_main": "https://images.phylopic.org/images/bb459b30-2370-4b7f-a1f9-f0d836aa35d1/raster/534x570.png",
+        "img_thumbnail": "https://images.phylopic.org/images/bb459b30-2370-4b7f-a1f9-f0d836aa35d1/raster/534x570.png",
+        "reproduction": "",
+        "distribution": "La especie es end\u00e9mica de Colombia y se encuentra en tierras c\u00e1lidas a templadas de la Cordilllera Oriental sobre el piedemonte andino-orinoquence. Los registros se distribuyen en selvas h\u00famedas andinas de Cundinamarca, Boyac\u00e1 y Meta entre 900 y 1500 metros de elevaci\u00f3n.",
+        "abstract": "Pertenece a la familia Orchidaceae. Es una hierba ep\u00edfita end\u00e9mica de Colombia. Se encuentra en selvas h\u00famedas andinas en el piedemonte Andino-Orinoquence. Las plantas de este g\u00e9nero son polinizadas por abejas.",
+        "phylum": "Tracheophyta",
+        "classHierarchy": "Liliopsida",
+        "order": "Asparagales",
+        "family": "Orchidaceae",
+        "genus": "Oncidium",
+        "habitats": "",
+        "statusmundial": "EN",
+        "statusnacional": "EN"
+    }
+]
