@@ -117,4 +117,4 @@ def retornar_datos_detalle(tipo_consulta: int, id_especimen: str):
 
 #método main para iniciar el servidor
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8080)
+    uvicorn.run("app:app", host="0.0.0.0", port=8080)
